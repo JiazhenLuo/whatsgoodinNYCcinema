@@ -1,0 +1,1 @@
+from flask import Flask, jsonify; app = Flask(__name__); app.json.ensure_ascii = False; app.config['JSON_AS_ASCII'] = False; @app.route('/test') ; def test(): return jsonify({'message': '你好'}); app.run(port=8888)

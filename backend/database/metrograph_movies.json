@@ -1,0 +1,1863 @@
+[
+    {
+        "title_en": "Chungking Express",
+        "show_dates": [
+            {
+                "date": "Thursday March 27",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Monday March 31",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26645",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000735",
+        "image_url": "https://metrograph.imgix.net/2023/05/chungking-express.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Wong Kar-wai",
+        "year": 1994,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Drop Dead Gorgeous",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003357",
+        "image_url": "https://metrograph.imgix.net/2023/07/drop-dead-gorgeous.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Michael Patrick Jann",
+        "year": 1999,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Lobster",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003115",
+        "image_url": "https://metrograph.imgix.net/2023/01/THELOBSTER.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Yorgos Lanthimos",
+        "year": 2015,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Black Narcissus",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26463",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Monday March 31",
+                "times": [
+                    {
+                        "time": "9:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26647",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "6:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26600",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002347",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/BLACK-NARCISSUS_WP_2.jpeg",
+        "director": "Michael Powell, Emeric Pressburger",
+        "year": 1947,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Post Tenebras Lux",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26465",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26484",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26599",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004229",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/POST-TENEBRAS-LUX_WP_3.jpg",
+        "director": "Carlos  Reygadas",
+        "year": 2012,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Mysterious Skin",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26464",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "11:40am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26470",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26609",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004230",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/MYSTERIOUS-SKIN_5.jpeg",
+        "director": "Gregg Araki",
+        "year": 2004,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "ACE Presents: Amour",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004213",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/AMOUR_1.jpg",
+        "director": "Michael Haneke",
+        "year": 2012,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Julie Keeps Quiet",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26473",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26477",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Monday March 31",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26649",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26595",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26601",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "5:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26612",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004184",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/JULIE-KEEPS-QUIET_2_resized.jpg",
+        "director": "Leonardo Van Dijl",
+        "year": 2024,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Donnie Darko",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26467",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "8:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26472",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26481",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1",
+                "times": [
+                    {
+                        "time": "8:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26596",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26598",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26608",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000800",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DONNIE-DARKO_4.jpeg",
+        "director": "Richard Kelly",
+        "year": 2001,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Oldest Profession",
+        "show_dates": [
+            {
+                "date": "Friday March 28",
+                "times": [
+                    {
+                        "time": "10:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26468",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26485",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "8:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26603",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "7:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26611",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004231",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-OLDEST-PROFESSION_5.jpeg",
+        "director": "Noboru Tanaka",
+        "year": 1974,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Beekeeper",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "11:25am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26469",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26479",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004222",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-BEEKEEPER_WP_1_resized.jpg",
+        "director": "Theo  Angelopoulos",
+        "year": 1986,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Wicked Games - Rimini Sparta",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "1:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26438",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26534",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004214",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/WICKED-GAMES-RIMINI-SPARTA_WP_3.jpg",
+        "director": "Ulrich Seidl",
+        "year": 2023,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Tár",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "2:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26527",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004215",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/TAR_1.jpg",
+        "director": "Todd Field",
+        "year": 2022,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Diabolique",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "5:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26471",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26480",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "3:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26606",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004220",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DIABOLIQUE_11.jpg",
+        "director": "Henri-Georges Clouzot",
+        "year": 1955,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Untitled",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "5:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26440",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26517",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000814",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/UNTITLED_6_resized.jpg",
+        "director": "Michael Glawogger, Monika Willi",
+        "year": 2017,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Cat People",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26474",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "4:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26483",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000070",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/CAT-PEOPLE_WP_3.jpeg",
+        "director": "Paul Schrader",
+        "year": 1982,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Antiporno",
+        "show_dates": [
+            {
+                "date": "Saturday March 29",
+                "times": [
+                    {
+                        "time": "10:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26475",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26486",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26605",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001156",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/ANTIPORNO_4.jpeg",
+        "director": "Sion Sono",
+        "year": 2016,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Gospel According to St. Matthew",
+        "show_dates": [
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26476",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26529",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002039",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-GOSPEL-ACCORDING-TO-ST.-MATTHEW_WP_2.jpeg",
+        "director": "Pier Paolo Pasolini",
+        "year": 1964,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The River",
+        "show_dates": [
+            {
+                "date": "Sunday March 30",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26478",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1",
+                "times": [
+                    {
+                        "time": "6:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26593",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003420",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-RIVER_WP_7.jpeg",
+        "director": "Tsai Ming-liang",
+        "year": 1997,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Matewan",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004202",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/MATEWAN_WP_2.jpg",
+        "director": "John Sayles",
+        "year": 1987,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Nights of Cabiria",
+        "show_dates": [
+            {
+                "date": "Monday March 31",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26646",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26592",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004206",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/NIGHTS-OF-CABIRIA_11.jpeg",
+        "director": "Federico Fellini",
+        "year": 1957,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Titane",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003303",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/TITANE_2_resized.jpg",
+        "director": "Julia  Ducournau",
+        "year": 2021,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Amour",
+        "show_dates": [
+            {
+                "date": "Tuesday April 1",
+                "times": [
+                    {
+                        "time": "3:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26594",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "11:30am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26528",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001734",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/AMOUR_11.jpg",
+        "director": "Michael Haneke",
+        "year": 2012,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Ghost World",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000822",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/02/ghost-world.jpeg",
+        "director": "Terry  Zwigoff",
+        "year": 2001,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Virgin Suicides",
+        "show_dates": [
+            {
+                "date": "Wednesday April 2",
+                "times": [
+                    {
+                        "time": "8:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26602",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26610",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002390",
+        "image_url": "https://metrograph.imgix.net/2022/07/VIRGINSUICIDES.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Sophia Coppola",
+        "year": 1999,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Persona",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002303",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/02/persona.jpeg",
+        "director": "Ingmar Bergman",
+        "year": 1966,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Nostalghia",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004203",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/NOSTALGHIA_4.jpeg",
+        "director": "Andrei Tarkovsky",
+        "year": 1983,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Clerks",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003300",
+        "image_url": "https://metrograph.imgix.net/2023/06/clerks.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Kevin Smith",
+        "year": 1994,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Clue",
+        "show_dates": [
+            {
+                "date": "Friday April 4",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26489",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "7:10pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003538",
+        "image_url": "https://metrograph.imgix.net/2023/10/clue.jpeg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Jonathan Lynn",
+        "year": 1985,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Love Hotel",
+        "show_dates": [
+            {
+                "date": "Friday April 4",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26493",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26492",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26525",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "9:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26524",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26536",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26533",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004185",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/LOVE-HOTEL_2.jpg",
+        "director": "Shinji  Sômai",
+        "year": 1985,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Rope",
+        "show_dates": [
+            {
+                "date": "Friday April 4",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26490",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26532",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003530",
+        "image_url": "https://metrograph.imgix.net/2023/10/Rope-Featured-Image.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Alfred Hitchcock",
+        "year": 1948,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Siméon",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004233",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/SIMEON_WP_1-copy.jpeg",
+        "director": "Euzhan Palcy",
+        "year": 1992,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "First Reformed",
+        "show_dates": [
+            {
+                "date": "Friday April 4",
+                "times": [
+                    {
+                        "time": "6:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26494",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "3:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26535",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001717",
+        "image_url": "https://metrograph.imgix.net/2023/04/ScreenShot2019-01-22at6.17.25PM.png?fm=png&ixlib=php-3.3.1",
+        "director": "Paul Schrader",
+        "year": 2017,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "A Dry White Season",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004234",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/A-DRY-WHITE-SEASON_WP_3.jpg",
+        "director": "Euzhan Palcy",
+        "year": 1989,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Saturday Afternoon Cartoons: April Showers",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004241",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Noahs-Outing.jpeg",
+        "director": "Multiple Dirs",
+        "year": 1950,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "What Time is it There?",
+        "show_dates": [
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26519",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "12:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26582",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004235",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WHAT-TIME-IS-IT-THERE__WP_2.jpeg",
+        "director": "Tsai Ming-liang",
+        "year": 2001,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "ASC Presents: Midnight Cowboy",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004236",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/MIDNIGHT-COWBOY_WP_1.jpeg",
+        "director": "John  Schlesinger",
+        "year": 1969,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "This Long Century Presents: Ari Marcopoulos",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004237",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Ari-Marcopoulos_Sketches-for-PUNK_02.jpg",
+        "director": "Ari Marcopoulos",
+        "year": 2021,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Exorcist",
+        "show_dates": [
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "10:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26522",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26578",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "7:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26584",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001427",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-EXORCIST_1.jpeg",
+        "director": "William Friedkin",
+        "year": 1973,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Lovers Are Wet",
+        "show_dates": [
+            {
+                "date": "Saturday April 5",
+                "times": [
+                    {
+                        "time": "11:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26523",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26537",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004238",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LOVERS-ARE-WET_WP_2.jpeg",
+        "director": "Tatsumi Kumashiro",
+        "year": 1973,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Palindromes: 20th Anniversary Reunion",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004239",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/PALINDROMES_1.jpeg",
+        "director": "Todd  Solondz",
+        "year": 2004,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Wayward Cloud",
+        "show_dates": [
+            {
+                "date": "Sunday April 6",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26531",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26583",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "2:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26623",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004240",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-WAYWARD-CLOUD_WP_1-copy.jpg",
+        "director": "Tsai Ming-liang",
+        "year": 2005,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "La Religieuse (The Nun)",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26564",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26576",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002356",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LA-RELIGIEUSE_4.jpeg",
+        "director": "Jacques Rivette",
+        "year": 1966,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "SubUrbia",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26565",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "4:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26574",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002025",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/SubUrbia_WP_7.jpeg",
+        "director": "Richard  Linklater",
+        "year": 1996,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "I Don't Want to Sleep Alone",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "5:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26570",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26573",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26637",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002282",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/I-DONT-WANT-TO-SLEEP-ALONE_WP_3.jpeg",
+        "director": "Tsai Ming-liang",
+        "year": 2006,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Pink Narcissus",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26567",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26575",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26588",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26643",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004186",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/PINK-NARCISSUS_2.jpg",
+        "director": "James Bidgood",
+        "year": 1971,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Abnormal Family",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "7:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26566",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "9:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26579",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "8:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26587",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004244",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/B_ABNORMAL-FAMILY_1.jpeg",
+        "director": "Masayuki  Suo",
+        "year": 1984,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Blade Runner: The Final Cut",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26568",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26585",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26615",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26627",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000718",
+        "image_url": "https://metrograph.imgix.net/2023/06/blade-runner1.jpeg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Ridley Scott",
+        "year": 1982,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Quiet Family",
+        "show_dates": [
+            {
+                "date": "Friday April 11",
+                "times": [
+                    {
+                        "time": "9:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26569",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "6:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26580",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004245",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-QUIET-FAMILY_WP_8.jpeg",
+        "director": "Kim Jee-woon",
+        "year": 1998,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Eight Men Out",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004246",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/EIGHT-MAN-OUT_WP_1.jpeg",
+        "director": "John Sayles",
+        "year": 1988,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Thirteen",
+        "show_dates": [
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26572",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26590",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004247",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THIRTEEN_WP_7.jpeg",
+        "director": "Catherine Hardwicke",
+        "year": 2003,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Benedetta",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004248",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/BENEDETTA_4.jpeg",
+        "director": "Paul Verhoeven",
+        "year": 2021,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Eros",
+        "show_dates": [
+            {
+                "date": "Saturday April 12",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26581",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "4:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26589",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000989",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/EROS_WP_1.jpg",
+        "director": "Michelangelo Antonioni, Wong Kar-wai, Steven  Soderbergh",
+        "year": 2004,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Happy End",
+        "show_dates": [
+            {
+                "date": "Sunday April 13",
+                "times": [
+                    {
+                        "time": "12:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26591",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26613",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004249",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/HAPPY-END_1.jpeg",
+        "director": "Michael Haneke",
+        "year": 2017,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Lone Star",
+        "show_dates": [
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "3:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26614",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26622",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004252",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LONE-STAR_WP_1.jpeg",
+        "director": "John Sayles",
+        "year": 1996,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Paranoid Park",
+        "show_dates": [
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26616",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "3:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26642",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001512",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/04/PARANOID-PARK_3.jpg",
+        "director": "Gus Van Sant",
+        "year": 2007,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Invention",
+        "show_dates": [
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26620",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "5:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26626",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "7:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26635",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004187",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/INVENTION_1.jpg",
+        "director": "Courtney Stephens",
+        "year": 2024,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Wet Woman in the Wind",
+        "show_dates": [
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "7:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26617",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "10:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26640",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001141",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WET-WOMAN-IN-THE-WIND_WP_5.jpeg",
+        "director": "Akihiro Shiota",
+        "year": 2016,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Doc's Kingdom",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004253",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/DOCS-KINGDOM_WP_1.jpeg",
+        "director": "Robert Kramer",
+        "year": 1988,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Holy Mountain",
+        "show_dates": [
+            {
+                "date": "Friday April 18",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26619",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26630",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "11:00am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26631",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002966",
+        "image_url": "https://metrograph.imgix.net/2022/09/holy-mountain-4.jpeg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Alejandro Jodorowsky",
+        "year": 1973,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Star Trek: The Motion Picture",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004254",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/STAR-TREK_-THE-MOTION-PICTURE_14.jpeg",
+        "director": "Robert  Wise",
+        "year": 1979,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Workingman's Death",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002281",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WORKINGMANS-DEATH_8.jpeg",
+        "director": "Michael Glawogger",
+        "year": 2005,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Monty Python's Life of Brian",
+        "show_dates": [
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26625",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26638",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004255",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/MONTY-PYTHONS-LIFE-OF-BRIAN_4-1.jpeg",
+        "director": "Terry Jones",
+        "year": 1979,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Dead and the Living",
+        "show_dates": [
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26628",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "5:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26641",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004232",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DEAD-AND-THE-LIVING.jpeg",
+        "director": "Barbara Albert",
+        "year": 2012,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Vive L'Amour",
+        "show_dates": [
+            {
+                "date": "Saturday April 19",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26629",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20",
+                "times": [
+                    {
+                        "time": "1:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26636",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002623",
+        "image_url": "https://metrograph.imgix.net/2022/02/Vive_lamore_1994_1.jpeg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Tsai Ming-liang",
+        "year": 1994,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Whale Rider",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002017",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WHALE-RIDER_1.jpeg",
+        "director": "Niki Caro",
+        "year": 2002,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Secret of Roan Inish",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004257",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-SECRET-OF-ROAN-INISH_2.jpeg",
+        "director": "John Sayles",
+        "year": 1994,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Art Cinema for Tots: Toys and Things",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004251",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/two.jpg",
+        "director": "Multiple Dirs",
+        "year": 1964,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Weird Medicine Shorts",
+        "show_dates": [],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004258",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/missing-time_one-1-scaled-1.jpeg",
+        "director": "Multiple Dirs",
+        "year": 2016,
+        "cinema": "Metrograph"
+    }
+]
