@@ -1,0 +1,2492 @@
+[
+    {
+        "title_en": "The Lobster",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26462",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003115",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Black Narcissus",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26463",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "9:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26647",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "6:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26600",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002347",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Post Tenebras Lux",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26465",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26484",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26599",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004229",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Mysterious Skin",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26464",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "11:40am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26470",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26609",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004230",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "ACE Presents: Amour",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004213",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Julie Keeps Quiet",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26477",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26649",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26595",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "6:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26601",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "5:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26612",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004184",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Donnie Darko",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26467",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "8:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26472",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26481",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "8:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26596",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26598",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26608",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000800",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Oldest Profession",
+        "show_dates": [
+            {
+                "date": "Friday March 28, 2025",
+                "times": [
+                    {
+                        "time": "10:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26468",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26485",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "8:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26603",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "7:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26611",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004231",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Beekeeper",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "11:25am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26469",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26479",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004222",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Wicked Games - Rimini Sparta",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "1:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26438",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26534",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004214",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Tár",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "2:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26527",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004215",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Diabolique",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "5:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26471",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26480",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "3:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26606",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004220",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Untitled",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "5:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26440",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26517",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000814",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Cat People",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26474",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "4:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26483",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000070",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Antiporno",
+        "show_dates": [
+            {
+                "date": "Saturday March 29, 2025",
+                "times": [
+                    {
+                        "time": "10:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26475",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26486",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26605",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001156",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Gospel According to St. Matthew",
+        "show_dates": [
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26476",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26529",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002039",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The River",
+        "show_dates": [
+            {
+                "date": "Sunday March 30, 2025",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26478",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "6:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26593",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003420",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Matewan",
+        "show_dates": [
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "4:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26644",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004202",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Chungking Express",
+        "show_dates": [
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26645",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000735",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Nights of Cabiria",
+        "show_dates": [
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26646",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26592",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004206",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Titane",
+        "show_dates": [
+            {
+                "date": "Monday March 31, 2025",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26648",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003303",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Amour",
+        "show_dates": [
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "3:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26594",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "11:30am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26528",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001734",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Ghost World",
+        "show_dates": [
+            {
+                "date": "Tuesday April 1, 2025",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26597",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000822",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Virgin Suicides",
+        "show_dates": [
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "8:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26602",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26610",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002390",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Persona",
+        "show_dates": [
+            {
+                "date": "Wednesday April 2, 2025",
+                "times": [
+                    {
+                        "time": "10:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26604",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002303",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Nostalghia",
+        "show_dates": [
+            {
+                "date": "Thursday April 3, 2025",
+                "times": [
+                    {
+                        "time": "4:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26607",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004203",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Clerks",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26488",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003300",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Clue",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26489",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "7:10pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003538",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Love Hotel",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26493",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26492",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26525",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "9:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26524",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26536",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26533",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004185",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Rope",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26490",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26532",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003530",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Siméon",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "6:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26491",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004233",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "First Reformed",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "6:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26494",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "3:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26535",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001717",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "A Dry White Season",
+        "show_dates": [
+            {
+                "date": "Friday April 4, 2025",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26495",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004234",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Saturday Afternoon Cartoons: April Showers",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "12:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26518",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004241",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "What Time is it There?",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26519",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "12:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26582",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004235",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "ASC Presents: Midnight Cowboy",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26520",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004236",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "This Long Century Presents: Ari Marcopoulos",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26521",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004237",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Exorcist",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "10:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26522",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26578",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "7:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26584",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001427",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Lovers Are Wet",
+        "show_dates": [
+            {
+                "date": "Saturday April 5, 2025",
+                "times": [
+                    {
+                        "time": "11:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26523",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26537",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004238",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Palindromes: 20th Anniversary Reunion",
+        "show_dates": [
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004239",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Wayward Cloud",
+        "show_dates": [
+            {
+                "date": "Sunday April 6, 2025",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26531",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26583",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "2:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26623",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004240",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "La Religieuse (The Nun)",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26564",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26576",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002356",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "SubUrbia",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26565",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "4:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26574",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002025",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "I Don't Want to Sleep Alone",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "5:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26570",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26573",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26637",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002282",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Pink Narcissus",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26567",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26575",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26588",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26643",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004186",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Abnormal Family",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "7:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26566",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "9:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26579",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "8:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26587",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004244",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Blade Runner: The Final Cut",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26568",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26585",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26615",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26627",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000718",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Quiet Family",
+        "show_dates": [
+            {
+                "date": "Friday April 11, 2025",
+                "times": [
+                    {
+                        "time": "9:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26569",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "6:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26580",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004245",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Eight Men Out",
+        "show_dates": [
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "11:45am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26571",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004246",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Thirteen",
+        "show_dates": [
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26572",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26590",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004247",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Benedetta",
+        "show_dates": [
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26577",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004248",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Eros",
+        "show_dates": [
+            {
+                "date": "Saturday April 12, 2025",
+                "times": [
+                    {
+                        "time": "10:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26581",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "4:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26589",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000989",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Happy End",
+        "show_dates": [
+            {
+                "date": "Sunday April 13, 2025",
+                "times": [
+                    {
+                        "time": "12:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26591",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "2:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26613",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004249",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Lone Star",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "3:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26614",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26622",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26662",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004252",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Paranoid Park",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26616",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "3:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26642",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001512",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Invention",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26620",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "5:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26626",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "7:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26635",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004187",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Wet Woman in the Wind",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "7:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26617",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "10:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26640",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001141",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Doc's Kingdom",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "9:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26618",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004253",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Holy Mountain",
+        "show_dates": [
+            {
+                "date": "Friday April 18, 2025",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26619",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26630",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "11:00am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26631",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26665",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26672",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002966",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Star Trek: The Motion Picture",
+        "show_dates": [
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26621",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26656",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004254",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Workingman's Death",
+        "show_dates": [
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26624",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002281",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Monty Python's Life of Brian",
+        "show_dates": [
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26625",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26638",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26650",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "11:00am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26658",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26673",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004255",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Dead and the Living",
+        "show_dates": [
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26628",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "5:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26641",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004232",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Vive L'Amour",
+        "show_dates": [
+            {
+                "date": "Saturday April 19, 2025",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26629",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "1:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26636",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002623",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Whale Rider",
+        "show_dates": [
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "11:30am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26632",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002017",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Secret of Roan Inish",
+        "show_dates": [
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "1:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26633",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26677",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004257",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Art Cinema for Tots: Toys and Things",
+        "show_dates": [
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26634",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "11:10am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26659",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004251",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Weird Medicine Shorts",
+        "show_dates": [
+            {
+                "date": "Sunday April 20, 2025",
+                "times": [
+                    {
+                        "time": "5:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26639",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004258",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Winter Light",
+        "show_dates": [
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "2:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26651",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26663",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004259",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Time of the Wolf",
+        "show_dates": [
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26652",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26661",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004260",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Defending Your Life",
+        "show_dates": [
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26657",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26675",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001660",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Blue Sun Palace",
+        "show_dates": [
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26653",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26655",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "12:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26660",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26667",
+                        "sold_out": null
+                    }
+                ]
+            },
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26676",
+                        "sold_out": null
+                    },
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26674",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004188",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "The Hole",
+        "show_dates": [
+            {
+                "date": "Friday April 25, 2025",
+                "times": [
+                    {
+                        "time": "9:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26654",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000265",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Boys (Xiaohai) + My Stinking Kid + Single Belief",
+        "show_dates": [
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "1:05pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26668",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004261",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "ACE Presents: Chinatown",
+        "show_dates": [
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "6:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26666",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004262",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Possession",
+        "show_dates": [
+            {
+                "date": "Saturday April 26, 2025",
+                "times": [
+                    {
+                        "time": "9:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26664",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001205",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Chinatown",
+        "show_dates": [
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "11:20am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26669",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001051",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Aliens",
+        "show_dates": [
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26678",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001083",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Help Me Eros",
+        "show_dates": [
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26670",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004263",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Walker Series: Journey to the West + No No Sleep",
+        "show_dates": [
+            {
+                "date": "Sunday April 27, 2025",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26671",
+                        "sold_out": null
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004264",
+        "image_url": "",
+        "director": "",
+        "year": null,
+        "cinema": "Metrograph"
+    }
+]

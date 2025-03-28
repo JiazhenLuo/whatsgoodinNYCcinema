@@ -510,6 +510,199 @@ def update_special_cases():
     print(f"\nUpdate summary:")
     print(f"- Updated special cases: {updated_count} of {len(special_cases)}")
 
+def import_metrograph_data():
+    """
+    Import Metrograph movie data from JSON file into the database.
+    """
+    # 获取Metrograph JSON文件路径
+    metrograph_json_path = os.path.join(script_dir, "database", "metrograph_movies.json")
+    
+    if not os.path.exists(metrograph_json_path):
+        print(f"❌ Metrograph data file not found: {metrograph_json_path}")
+        return 0, 0
+    
+    try:
+        # 加载Metrograph电影数据
+        print(f"加载Metrograph数据: {metrograph_json_path}...")
+        with open(metrograph_json_path, 'r', encoding='utf-8') as f:
+            movies_data = json.load(f)
+        
+        print(f"找到 {len(movies_data)} 部电影需要导入")
+        
+        conn = sqlite3.connect(db_path)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+        
+        imported_movies = 0
+        imported_screenings = 0
+        
+        for movie_data in movies_data:
+            title_en = movie_data.get('title_en')
+            if not title_en:
+                print(f"跳过没有标题的电影: {movie_data}")
+                continue
+                
+            # 检查电影是否已存在
+            cursor.execute("""
+                SELECT id FROM movies 
+                WHERE title_en = ? AND cinema = 'Metrograph'
+            """, (title_en,))
+            
+            existing_movie = cursor.fetchone()
+            
+            if existing_movie:
+                movie_id = existing_movie['id']
+                print(f"电影已存在: {title_en} (ID: {movie_id})")
+                
+                # 更新现有电影数据
+                update_fields = []
+                update_values = []
+                
+                if movie_data.get('director'):
+                    update_fields.append("director = ?")
+                    update_values.append(movie_data.get('director'))
+                
+                if movie_data.get('year'):
+                    update_fields.append("year = ?")
+                    update_values.append(movie_data.get('year'))
+                
+                if movie_data.get('overview_en'):
+                    update_fields.append("overview_en = ?")
+                    update_values.append(movie_data.get('overview_en'))
+                
+                if movie_data.get('detail_url'):
+                    update_fields.append("detail_url = ?")
+                    update_values.append(movie_data.get('detail_url'))
+                
+                if movie_data.get('image_url'):
+                    update_fields.append("image_url = ?")
+                    update_values.append(movie_data.get('image_url'))
+                
+                if movie_data.get('trailer_url'):
+                    update_fields.append("trailer_url = ?")
+                    update_values.append(movie_data.get('trailer_url'))
+                
+                if movie_data.get('duration'):
+                    update_fields.append("duration = ?")
+                    update_values.append(movie_data.get('duration'))
+                
+                # 增加Q&A等信息
+                if movie_data.get('has_qa'):
+                    update_fields.append("has_qa = ?")
+                    update_values.append(movie_data.get('has_qa'))
+                    
+                    if movie_data.get('qa_details'):
+                        update_fields.append("qa_details = ?")
+                        update_values.append(movie_data.get('qa_details'))
+                
+                if movie_data.get('has_introduction'):
+                    update_fields.append("has_introduction = ?")
+                    update_values.append(movie_data.get('has_introduction'))
+                    
+                    if movie_data.get('introduction_details'):
+                        update_fields.append("introduction_details = ?")
+                        update_values.append(movie_data.get('introduction_details'))
+                
+                if update_fields:
+                    query = f"UPDATE movies SET {', '.join(update_fields)} WHERE id = ?"
+                    update_values.append(movie_id)
+                    
+                    cursor.execute(query, update_values)
+                    conn.commit()
+                    print(f"  - 更新电影信息: {title_en}")
+            else:
+                # 插入新电影
+                cursor.execute("""
+                    INSERT INTO movies (
+                        title_en, director, year, cinema, detail_url, 
+                        image_url, overview_en, trailer_url, duration,
+                        has_qa, qa_details, has_introduction, introduction_details
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, (
+                    title_en,
+                    movie_data.get('director', ''),
+                    movie_data.get('year'),
+                    'Metrograph',
+                    movie_data.get('detail_url', ''),
+                    movie_data.get('image_url', ''),
+                    movie_data.get('overview_en', ''),
+                    movie_data.get('trailer_url', ''),
+                    movie_data.get('duration', ''),
+                    movie_data.get('has_qa', False),
+                    movie_data.get('qa_details', ''),
+                    movie_data.get('has_introduction', False),
+                    movie_data.get('introduction_details', '')
+                ))
+                
+                movie_id = cursor.lastrowid
+                conn.commit()
+                imported_movies += 1
+                print(f"  - 导入新电影: {title_en} (ID: {movie_id})")
+            
+            # 处理放映信息
+            if movie_data.get('show_dates'):
+                # 首先删除该电影在Metrograph的旧放映信息
+                cursor.execute("""
+                    DELETE FROM screenings 
+                    WHERE movie_id = ? AND cinema = 'Metrograph'
+                """, (movie_id,))
+                
+                # 添加新的放映信息
+                for date_info in movie_data.get('show_dates', []):
+                    for time_info in date_info.get('times', []):
+                        screening_date = date_info.get('date')
+                        screening_time = time_info.get('time')
+                        sold_out = time_info.get('sold_out', False)
+                        ticket_url = time_info.get('ticket_url', '')
+                        
+                        if screening_date and screening_time:
+                            # 检查日期是否已经是YYYY-MM-DD格式
+                            if not screening_date.startswith('20'):
+                                # 尝试解析日期
+                                try:
+                                    from datetime import datetime
+                                    parsed_date = datetime.strptime(screening_date, "%Y-%m-%d")
+                                    screening_date = parsed_date.strftime("%Y-%m-%d")
+                                except ValueError:
+                                    try:
+                                        # 尝试其他日期格式
+                                        parsed_date = datetime.strptime(screening_date, "%A %B %d, %Y")
+                                        screening_date = parsed_date.strftime("%Y-%m-%d")
+                                    except ValueError:
+                                        print(f"  - 警告: 无法解析日期: {screening_date}")
+                                        continue
+                            
+                            # 添加放映信息
+                            cursor.execute("""
+                                INSERT INTO screenings (
+                                    movie_id, title_en, cinema, date, time, sold_out, ticket_url
+                                ) VALUES (?, ?, ?, ?, ?, ?, ?)
+                            """, (
+                                movie_id, 
+                                title_en, 
+                                'Metrograph', 
+                                screening_date, 
+                                screening_time, 
+                                sold_out, 
+                                ticket_url
+                            ))
+                            imported_screenings += 1
+        
+        conn.commit()
+        conn.close()
+        
+        print(f"\n✅ Metrograph数据导入完成!")
+        print(f"  - 导入/更新电影: {imported_movies}")
+        print(f"  - 导入放映场次: {imported_screenings}")
+        
+        return imported_movies, imported_screenings
+        
+    except Exception as e:
+        print(f"❌ 导入Metrograph数据出错: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return 0, 0
+
 def main():
     # Add Chinese director name field
     add_director_column()
@@ -582,9 +775,15 @@ def main():
     # Update special cases
     update_special_cases()
     
+    # Import Metrograph data
+    print("\nImporting Metrograph data...")
+    imported_movies, imported_screenings = import_metrograph_data()
+    
     print(f"\nOverall update summary:")
     print(f"- TMDB updates: {updated_tmdb_count} of {len(movies_for_tmdb)}")
     print(f"- OMDb updates: {updated_omdb_count} of {len(movies_without_info)}")
+    print(f"- Metrograph movies imported/updated: {imported_movies}")
+    print(f"- Metrograph screenings imported: {imported_screenings}")
 
 if __name__ == "__main__":
     main() 

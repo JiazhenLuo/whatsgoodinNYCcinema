@@ -275,17 +275,18 @@ def import_filmforum_data():
                     movie_id = cursor.lastrowid
                     movies_count += 1
                 
-                # 插入放映信息到 screenings 表
-                for show_date in movie.get("show_dates", []):
-                    date = show_date["date"]
-                    for time_info in show_date.get("times", []):
-                        # 检查放映信息是否已存在
-                        cursor.execute("""
-                            SELECT id FROM screenings 
-                            WHERE movie_id = ? AND date = ? AND time = ?
-                        """, (movie_id, date, time_info.get("time")))
-                        
-                        if not cursor.fetchone():
+                # 处理放映信息
+                if movie.get("show_dates"):
+                    # 首先删除该电影在Film Forum的所有旧放映记录
+                    cursor.execute("""
+                        DELETE FROM screenings 
+                        WHERE movie_id = ? AND cinema = 'Film Forum'
+                    """, (movie_id,))
+                    
+                    # 插入放映信息到 screenings 表
+                    for show_date in movie.get("show_dates", []):
+                        date = show_date["date"]
+                        for time_info in show_date.get("times", []):
                             # 根据screenings表的结构选择正确的INSERT语句
                             if has_title_en:
                                 cursor.execute("""

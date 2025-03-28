@@ -17,7 +17,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 APP_DIR = BASE_DIR / "app"
 
 # Database
-DB_PATH = BASE_DIR / "movies.db"
+DB_PATH = BASE_DIR / "database" / "movies.db"
 
 # API settings
 API_VERSION = 'v1'

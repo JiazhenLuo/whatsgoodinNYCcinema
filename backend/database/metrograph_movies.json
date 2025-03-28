@@ -1,107 +1,9 @@
 [
     {
-        "title_en": "Chungking Express",
-        "show_dates": [
-            {
-                "date": "Thursday March 27",
-                "times": [
-                    {
-                        "time": "9:30pm",
-                        "ticket_url": null,
-                        "sold_out": true
-                    }
-                ]
-            },
-            {
-                "date": "Monday March 31",
-                "times": [
-                    {
-                        "time": "4:45pm",
-                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26645",
-                        "sold_out": false
-                    }
-                ]
-            }
-        ],
-        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000735",
-        "image_url": "https://metrograph.imgix.net/2023/05/chungking-express.jpg?fm=pjpg&ixlib=php-3.3.1",
-        "director": "Wong Kar-wai",
-        "year": 1994,
-        "cinema": "Metrograph"
-    },
-    {
-        "title_en": "Drop Dead Gorgeous",
-        "show_dates": [],
-        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003357",
-        "image_url": "https://metrograph.imgix.net/2023/07/drop-dead-gorgeous.jpg?fm=pjpg&ixlib=php-3.3.1",
-        "director": "Michael Patrick Jann",
-        "year": 1999,
-        "cinema": "Metrograph"
-    },
-    {
-        "title_en": "The Lobster",
-        "show_dates": [],
-        "detail_url": "https://metrograph.com/film/?vista_film_id=9999003115",
-        "image_url": "https://metrograph.imgix.net/2023/01/THELOBSTER.jpg?fm=pjpg&ixlib=php-3.3.1",
-        "director": "Yorgos Lanthimos",
-        "year": 2015,
-        "cinema": "Metrograph"
-    },
-    {
-        "title_en": "Black Narcissus",
-        "show_dates": [
-            {
-                "date": "Friday March 28",
-                "times": [
-                    {
-                        "time": "2:30pm",
-                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26463",
-                        "sold_out": false
-                    }
-                ]
-            },
-            {
-                "date": "Sunday March 30",
-                "times": [
-                    {
-                        "time": "2:00pm",
-                        "ticket_url": null,
-                        "sold_out": true
-                    }
-                ]
-            },
-            {
-                "date": "Monday March 31",
-                "times": [
-                    {
-                        "time": "9:20pm",
-                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26647",
-                        "sold_out": false
-                    }
-                ]
-            },
-            {
-                "date": "Wednesday April 2",
-                "times": [
-                    {
-                        "time": "6:15pm",
-                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26600",
-                        "sold_out": false
-                    }
-                ]
-            }
-        ],
-        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002347",
-        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/BLACK-NARCISSUS_WP_2.jpeg",
-        "director": "Michael Powell, Emeric Pressburger",
-        "year": 1947,
-        "cinema": "Metrograph"
-    },
-    {
         "title_en": "Post Tenebras Lux",
         "show_dates": [
             {
-                "date": "Friday March 28",
+                "date": "2025-03-28",
                 "times": [
                     {
                         "time": "4:40pm",
@@ -111,7 +13,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "6:30pm",
@@ -121,7 +23,7 @@
                 ]
             },
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "4:00pm",
@@ -135,13 +37,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/POST-TENEBRAS-LUX_WP_3.jpg",
         "director": "Carlos  Reygadas",
         "year": 2012,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "115 min",
+        "overview_en": "Winner of the Best Director Award at the 2012 Cannes Film Festival, Reygadas’s fourth feature tells, through a daring, disorienting fragmented narrative structure, the story of a monied couple (Adolfo Jimenez Castro and Nathalia Acevedo) who decide to relocate with their two young children (Reygadas’s own son and daughter) to live a life of rural isolation in mountainous south-central Mexico—a decision with massive repercussions for their marriage, and for the inner lives of their offspring. Lush, mesmerizing, and confounding, existing in a fog-shrouded territory where memory, fantasy, and present-tense reality mingle, Reygadas’s divisive psychic self-portrait may be judged a triumph or a folly, but will leave no viewer indifferent.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/zYeXnNzJ89Y?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Mysterious Skin",
         "show_dates": [
             {
-                "date": "Friday March 28",
+                "date": "2025-03-28",
                 "times": [
                     {
                         "time": "4:45pm",
@@ -151,7 +58,7 @@
                 ]
             },
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "11:40am",
@@ -161,11 +68,21 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "9:30pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26609",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "7:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26695",
                         "sold_out": false
                     }
                 ]
@@ -175,22 +92,44 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/MYSTERIOUS-SKIN_5.jpeg",
         "director": "Gregg Araki",
         "year": 2004,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "105 min",
+        "overview_en": "Based on a novel of the same name by Scott Helm, making it Araki’s first film not from an original screenplay, Mysterious Skin stars Joseph Gordon-Levitt and a young Brady Corbet as two former little league teammates born in smalltown Kansas who, when caught up with in young adulthood, have responded to childhood trauma in very different ways: Gordon-Levitt’s Neil, now living in New York, by cruising and hustling older men; Corbet’s Brian, now increasingly obsessed with the subject of alien abductions. “At once the most harrowing and, strangely, the most touching film I have seen about child sexual abuse… A complex and challenging emotional experience.” —Roger Ebert, Chicago Sun-Times",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/5Lp5v4oQZRw?autoplay=1&playsinline=1"
     },
     {
         "title_en": "ACE Presents: Amour",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-03-28",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004213",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/AMOUR_1.jpg",
         "director": "Michael Haneke",
         "year": 2012,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "127 min",
+        "overview_en": "Icons of French cinema Jean-Louis Trintignant and Emmanuelle Riva play an elderly couple facing final separation by cruel death in Haneke’s tender-yet-hard study of life at the precipice. Cinematographer Darius Khondji offers a litany of locked-down framings, brittle in their composed beauty, each marked by an elegant exactitude and slowly suffocating airlessness, while editor Monika Willi’s smooth, sure-handed cutting lends what otherwise might be a stultifyingly static work a feeling of grim, merciless momentum, sliding imperceptibly towards the Great Beyond. Perhaps Haneke’s ultimate directorial accomplishment—and, incidentally, a eulogy for the youthful dreams of the 1960s European art cinema.",
+        "has_qa": true,
+        "qa_details": "Q&A with editor Monika Willi moderated by Julia Bloch, ACE, on Friday, March 28th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/6Tuc3zjvJU8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Julie Keeps Quiet",
         "show_dates": [
             {
-                "date": "Friday March 28",
+                "date": "2025-03-28",
                 "times": [
                     {
                         "time": "7:15pm",
@@ -200,17 +139,17 @@
                 ]
             },
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "8:00pm",
-                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26473",
-                        "sold_out": false
+                        "ticket_url": null,
+                        "sold_out": true
                     }
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "12:00pm",
@@ -220,7 +159,7 @@
                 ]
             },
             {
-                "date": "Monday March 31",
+                "date": "2025-03-31",
                 "times": [
                     {
                         "time": "7:15pm",
@@ -230,7 +169,7 @@
                 ]
             },
             {
-                "date": "Tuesday April 1",
+                "date": "2025-04-01",
                 "times": [
                     {
                         "time": "6:30pm",
@@ -240,7 +179,7 @@
                 ]
             },
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "6:30pm",
@@ -250,7 +189,7 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "5:50pm",
@@ -264,13 +203,19 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/JULIE-KEEPS-QUIET_2_resized.jpg",
         "director": "Leonardo Van Dijl",
         "year": 2024,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "97 min",
+        "overview_en": "Van Dijl’s tense, artfully understated feature debut, which made a splash at last year’s Cannes in the Critics’ Week section, is a drama of startling revelations and telling silences set at an elite youth tennis academy in Belgium that’s rocked by the suicide of a female pupil, in the aftermath of which many enrollees begin to speak out about the behavior of one particular coach (Laurent Caron)… while his star pupil Julie (real-life competitive tennis player Tessa Van den Broeck, in her first film role) remains conspicuously close-lipped. A psychological drama made with keen insight into the motives behind confession and suppression, with the unusual distinction of having both the Dardenne brothers, Florian Zeller, and Naomi Osaka among its producers.",
+        "has_qa": true,
+        "qa_details": "Q&A with director Leonardo van Dijl moderated by playwright and actor Jeremy O. Harris on Friday, March 28th | Q&A with director Leonardo van Dijl moderated by film critic Tomris Laffly and Saturday, March 29th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/EFDwrdyELdk?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Donnie Darko",
         "show_dates": [
             {
-                "date": "Friday March 28",
+                "date": "2025-03-28",
                 "times": [
                     {
                         "time": "10:00pm",
@@ -280,7 +225,7 @@
                 ]
             },
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "8:15pm",
@@ -290,7 +235,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "10:00pm",
@@ -300,7 +245,7 @@
                 ]
             },
             {
-                "date": "Tuesday April 1",
+                "date": "2025-04-01",
                 "times": [
                     {
                         "time": "8:40pm",
@@ -310,7 +255,7 @@
                 ]
             },
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "4:00pm",
@@ -320,7 +265,7 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "7:00pm",
@@ -334,13 +279,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DONNIE-DARKO_4.jpeg",
         "director": "Richard Kelly",
         "year": 2001,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "113 min",
+        "overview_en": "The defining midnight movie of the 21st century, Kelly’s down-the-rabbit-hole mind-bender is a journey through space and time firmly set in a Virginia suburb during the lead-up to the 1988 presidential election, featuring Jake Gyllenhaal as a gloomy teenaged outcast who finds himself under the influence of a six-foot-tall rabbit who encourages him to ever-bolder acts of vandalism in preparation for the end of the world. Lushly swathed in period tunes and featuring, in the form of Patrick Swayze, an impeccable period performer.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/AOIPyZBySds?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Oldest Profession",
         "show_dates": [
             {
-                "date": "Friday March 28",
+                "date": "2025-03-28",
                 "times": [
                     {
                         "time": "10:15pm",
@@ -350,7 +300,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "8:45pm",
@@ -360,7 +310,7 @@
                 ]
             },
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "8:35pm",
@@ -370,7 +320,7 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "7:50pm",
@@ -384,13 +334,17 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-OLDEST-PROFESSION_5.jpeg",
         "director": "Noboru Tanaka",
         "year": 1974,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "83 min",
+        "overview_en": "Tanaka, by many accounts the most all-around gifted of the ’70s Roman Porno specialists, brings black humor and a nuanced understanding of psychology to this character-driven piece which, in a series of tonally varied vignettes, observes 19-year-old Osaka prostitute Tome (Meika Seri, seen the following year in In the Realm of the Senses) as she struggles to put up with the demands of her crass clientele and the fraught family she supports. Featuring appearances by countercultural figures like poet Sakumi Hagiwara and activist/dancer Genshu Hanayagi, as well as freewheeling formal and stylistic experimentation, The Oldest Profession is among the boldest and most uncompromised of Roman Porno titles.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "The Beekeeper",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "11:25am",
@@ -400,7 +354,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "5:00pm",
@@ -414,13 +368,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-BEEKEEPER_WP_1_resized.jpg",
         "director": "Theo  Angelopoulos",
         "year": 1986,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "122 min",
+        "overview_en": "With Fellini’sGinger and Fredof the same year, also in this series, Angelopoulos’s sullen, taciturn road movie—the second installment in his Trilogy of Silence—gives us a radically deglamorized Marcello Mastroianni, here playing a retired schoolteacher, crestfallen by his daughter’s marriage, who has taken back up the profession of his forefathers, beekeeping, hitting the road to gather nectar for his hives from north to south Greece, striking up an unusual relationship with a young female drifter along the way. The spare, philosophical script marks Guerra’s second collaboration with Angelopoulos, their partnership lasting until the deaths of both men in 2012.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/6EVm034s_IM?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Wicked Games - Rimini Sparta",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "1:50pm",
@@ -430,7 +389,7 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "12:00pm",
@@ -444,13 +403,19 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/WICKED-GAMES-RIMINI-SPARTA_WP_3.jpg",
         "director": "Ulrich Seidl",
         "year": 2023,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "205 min",
+        "overview_en": "First screened as two separate 2022 films, Rimini and Sparta, following the lives of two long-separated brothers, the diptych Wicked Games: Rimini Sparta brings together the stories of Richie, a long-at-the-tooth crooner who sells romantic fantasy and sexual favors to his elderly fans at an off-season Adriatic resort town; Ewald, a technician-cum-judo teacher living in Romania who wrestles quietly with pedophiliac desires; and their dementia-addled father, spending his second childhood pottering around an Austrian nursing home. An epic, bleak vision of innocence and soiled experience, in which editor Monika Willi moves on from no frame before it has left its mark nor allows any to linger past the point where it has nothing to add.",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by editor Monika Willi on Saturday, March 29th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Fh3wB4XWjRI?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Tár",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "2:00pm",
@@ -460,11 +425,21 @@
                 ]
             },
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "2:10pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26527",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "6:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26704",
                         "sold_out": false
                     }
                 ]
@@ -474,13 +449,19 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/TAR_1.jpg",
         "director": "Todd Field",
         "year": 2022,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "158 min",
+        "overview_en": "Field came back swinging after a 16-year absence from the director’s chair with this taut, controversy-courting psychological drama starring Cate Blanchett as Lydia Tár, celebrity conductor of a Berlin orchestra whose psychic unravelling is hastened, her marriage to concertmaster Nina Hoss compromised, and her professional prospects ruined after she’s hit with public allegations of sexual predation. Nominated for six Academy Awards, including a Best Editing nomination for Monika Willi, with whom Field spent long, secluded hours cutting the film at a 15th-century former nunnery outside Edinburgh, Scotland. “The biggest challenge,” Willi would say of the process, “was the overall musicality… To have one big piece made of a lot of smaller pieces and see that it never lost its tension.”",
+        "has_qa": true,
+        "qa_details": "Q&A with editor Monika Willi moderated by composer Alex Weston on Saturday, March 29th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Na6gA1RehsU?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Diabolique",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "5:40pm",
@@ -490,7 +471,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "7:30pm",
@@ -500,7 +481,7 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "3:30pm",
@@ -514,13 +495,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DIABOLIQUE_11.jpg",
         "director": "Henri-Georges Clouzot",
         "year": 1955,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "117 min",
+        "overview_en": "An international sensation that marked Clouzot as a bona fide contender for Hitchcock’s Master of Suspense crown, the utterly unpredictable and unforgettable Diabolique puts the screws to an audience like few other films. Prep school headmaster Paul Meurisse’s reign of terror over his two colleagues/lovers—history teacher Simone Signoret and his frail wife, played by Mme. Véra Clouzot—comes to a close after a conspiracy between the two women that ends in him getting his just deserts. But when the dirty deed is done, and the two women find their victim’s body seems to have disappeared, that’s when the real psychological torment begins…",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/BzbGtjtfZwA?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Untitled",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "5:45pm",
@@ -530,7 +516,7 @@
                 ]
             },
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "12:00pm",
@@ -542,15 +528,21 @@
         ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999000814",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/UNTITLED_6_resized.jpg",
-        "director": "Michael Glawogger, Monika Willi",
+        "director": "Michael Glawogger",
         "year": 2017,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "107 min",
+        "overview_en": "Glawogger was shooting in Liberia when his untimely death from malaria, at age 54, brought one of the most extraordinary careers in contemporary nonfiction cinema to a close. Editor Monika Willi, the Austrian filmmaker’s close collaborator, here credited as co-director, would shape the breathtaking footage that Glawogger had accumulated in nearly five months of filming—the beginning of a proposed yearlong globe-trot—in Africa, Italy, and the Balkans into this elegiac, oft-philosophical imagist opus, inspired by Glawogger’s stated desire to make a film “[giving] a view of the world that can only emerge by not pursuing any particular theme, by refraining from passing judgment, proceeding without aim.”",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by editor Monika Willi on Saturday, March 29th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/ofZmYS9WwUc?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Cat People",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "10:30pm",
@@ -560,7 +552,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "4:10pm",
@@ -574,13 +566,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/CAT-PEOPLE_WP_3.jpeg",
         "director": "Paul Schrader",
         "year": 1982,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "118 min",
+        "overview_en": "In undertaking his remake of Val Lewton/Jacques Tourneur’s 1942 Cat People, Schrader, fresh from the high-style success of American Gigolo, drenched the material in druggy-delirious ’80s excess, including a Giorgio Moroder synth score (with David Bowie-sung theme), lavish production design by Ferdinando Scarfiotti (credited as “Visual Consultant”), and Nastassja Kinski at the height of her androgynous glamor. Kinski plays a young woman newly arrived in New Orleans to reunite with long lost older brother Malcolm McDowell, only there to discover during visits to the zoo (and through a burgeoning relationship with zookeeper John Heard) that she’s inherited her family’s unusual affinity for large, predatory cats… Tawdry, transgressive, and transcendent filmmaking.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/lYqwuCC-N2k?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Antiporno",
         "show_dates": [
             {
-                "date": "Saturday March 29",
+                "date": "2025-03-29",
                 "times": [
                     {
                         "time": "10:45pm",
@@ -590,7 +587,7 @@
                 ]
             },
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "10:30pm",
@@ -600,7 +597,7 @@
                 ]
             },
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "10:30pm",
@@ -614,13 +611,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/ANTIPORNO_4.jpeg",
         "director": "Sion Sono",
         "year": 2016,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "76 min",
+        "overview_en": "Young multi-hyphenate artist Kyoko (Ami Tomite) wreaks havoc on everyone that she encounters, the worst being reserved for simpering older assistant Noriko (Mariko Trutsui), whom she routinely humiliates—or at least that’s what seems to be happening, before an abrupt about-face. An outrageous, rabble-rousing contribution to the Roman Porno redux series, its action largely confined to a single set, Anti-Porno contains plenty of sex but above all is a world-class mindfuck, an expectation-defying, antic study in blighted eroticism, damaged psyches, and shifting power dynamics, set against outlandishly theatrical backdrops.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/heIa5m3MBhY?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Gospel According to St. Matthew",
         "show_dates": [
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "12:00pm",
@@ -630,7 +632,7 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "2:00pm",
@@ -644,13 +646,83 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/THE-GOSPEL-ACCORDING-TO-ST.-MATTHEW_WP_2.jpeg",
         "director": "Pier Paolo Pasolini",
         "year": 1964,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "137 min",
+        "overview_en": "Shooting the story of Christ with non-actors against the rugged landscapes of southern Italy, in a style simultaneously suggesting Quattrocento painting and contemporary cinéma vérité, Pasolini stripped the Gospel down to its core, in the process rediscovering the radical thought at the heart of the Nazarene’s teachings. The result is a film that drew praise from both doctrinaire Marxists and the Vatican newspaper, its soundtrack a patchwork of songs of faith from traditions ranging from Bach to the Jewish “Kol Nidre” to American blues.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/xEs4g9A9HGc?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Black Narcissus",
+        "show_dates": [
+            {
+                "date": "2025-03-30",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "2025-03-31",
+                "times": [
+                    {
+                        "time": "9:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26647",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-02",
+                "times": [
+                    {
+                        "time": "6:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26600",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26687",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "6:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26699",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999002347",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/BLACK-NARCISSUS_WP_2.jpeg",
+        "director": "Michael Powell",
+        "year": 1947,
+        "cinema": "Metrograph",
+        "duration": "101 min",
+        "overview_en": "A group of missionary nuns led by young Mother Superior Deborah Kerr set up a convent school in the Himalayas—created at Pinewood Studios in England—but soon find themselves vulnerable to the howling winds and other temptations. Ravishingly photographed by master cinematographer Jack Cardiff, who helps to whip things into a nearly psychedelic delirium in a climax involving Kathleen Byron’s Sister Ruth, driven to the edge by unfulfilled desire for station agent David Farrar.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/CZRzcLK1Ar0?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The River",
         "show_dates": [
             {
-                "date": "Sunday March 30",
+                "date": "2025-03-30",
                 "times": [
                     {
                         "time": "2:40pm",
@@ -660,7 +732,7 @@
                 ]
             },
             {
-                "date": "Tuesday April 1",
+                "date": "2025-04-01",
                 "times": [
                     {
                         "time": "6:15pm",
@@ -674,22 +746,68 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-RIVER_WP_7.jpeg",
         "director": "Tsai Ming-liang",
         "year": 1997,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "118 min",
+        "overview_en": "In Tsai’s third feature, the trouble begins for actor fetiche Lee Kang-sheng when he agrees to play the part of a drowned corpse in a film (directed by legendary Hong Kong auteur Ann Hui!) and is afterwards stricken by chronic neck pain. Lee’s home life worsens along with his mystery affliction—plumbing nightmares, mom pursuing an affair with a pornographer, dad trawling the local bathhouse—as Tsai observes his family’s individual agonies collect in a steady drip that leads to inevitable overflow in the catastrophic catharsis of his film’s climax.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/apfFdvyPv4Q?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Matewan",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-03-31",
+                "times": [
+                    {
+                        "time": "4:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26644",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004202",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/MATEWAN_WP_2.jpg",
         "director": "John Sayles",
         "year": 1987,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "135 min",
+        "overview_en": "Stunningly photographed by cinematographer Haskell Wexler, Sayles’s furiously present-tense period piece, inspired by the events of the 1920 West Virginia Mine War, depicts the clashes between union organizers and mining companies in a backwater coal town, where the bosses have conspired to sow disunity among their workers by pitting newly arrived Black migrants and Italian immigrants against the community’s longtime residents. A stirring, ballad-like epic of American Dreams deferred, boasting a uniformly exceptional ensemble cast, with James Earl Jones appearing alongside Sayles regulars Chris Cooper, David Strathairn, and Mary McDonnell.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Cjh29QNKLCc?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Chungking Express",
+        "show_dates": [
+            {
+                "date": "2025-03-31",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26645",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000735",
+        "image_url": "https://metrograph.imgix.net/2023/05/chungking-express.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Wong Kar-wai",
+        "year": 1994,
+        "cinema": "Metrograph",
+        "duration": "102 min",
+        "overview_en": "A hot-shot to the heart, pop masterpiece Chungking Express tells the stories of two lovelorn cops (Takeshi Kaneshiro and Tony Leung) and the women who baffle them (Brigitte Lin and Faye Wong, who contributes a Cantopop cover of The Cranberries’ “Dreams”), its bifurcated structure suggesting the A- and B-sides of a 45. Wong’s international breakthrough introduced new audiences to his rich, sensorial brand of filmmaking, inviting one to disappear into, sink into, live inside, a voluptuary world bigger and brighter than our own—but just as heartbreaking.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/OPCug9jyG9k?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Nights of Cabiria",
         "show_dates": [
             {
-                "date": "Monday March 31",
+                "date": "2025-03-31",
                 "times": [
                     {
                         "time": "7:00pm",
@@ -699,7 +817,7 @@
                 ]
             },
             {
-                "date": "Tuesday April 1",
+                "date": "2025-04-01",
                 "times": [
                     {
                         "time": "4:00pm",
@@ -713,22 +831,44 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/NIGHTS-OF-CABIRIA_11.jpeg",
         "director": "Federico Fellini",
         "year": 1957,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "110 min",
+        "overview_en": "Arguably the high point of Fellini’s collaboration with wife and muse Giulietta Masina is her almost Chalplinesque turn as Maria “Cabiria” Ceccarelli, a naïve Roman streetwalker who struggles to keep her dream of romantic deliverance intact in the face of callous clients, fake friends, her violent pimp lover, and the daily degradations of a life of poverty. A film of enormous pathos and easygoing humor which won Masina Best Actress honors at Cannes and gave a young Pier Paolo Pasolini an early screen credit, hired by Fellini for his intimate knowledge of the argot of Roman streets. “Fellini’s finest film.” —Pauline Kael, The New Yorker",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by Inbal Weinberg on Friday, March 14th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/OO6EmDhi2X0?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Titane",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-03-31",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26648",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999003303",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/TITANE_2_resized.jpg",
         "director": "Julia  Ducournau",
         "year": 2021,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "108 min",
+        "overview_en": "Winner of the Palme d’Or at the 2021 Cannes Film Festival, Ducournau’s sophomore feature follows Alexia (Agathe Rousselle), a car-crazy showgirl with a titanium plate in her skull as a souvenir of a childhood auto accident, as she embarks on a serial killing spree, then takes refuge from the police by posing as the long-missing son of Vincent Lindon’s woebegone, steroid-swollen firefighter. A delirious, audacious, and always unpredictable genre-bender that fuses parent-child melodrama, cyberpunk sci-fi, and serial killer movie shocker in a maverick film fable that’s as emotional as it is visceral.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/ct6g0DITLVg?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Amour",
         "show_dates": [
             {
-                "date": "Tuesday April 1",
+                "date": "2025-04-01",
                 "times": [
                     {
                         "time": "3:45pm",
@@ -738,7 +878,7 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "11:30am",
@@ -752,22 +892,43 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/AMOUR_11.jpg",
         "director": "Michael Haneke",
         "year": 2012,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "127 min",
+        "overview_en": "For their study of an elderly couple—played by icons of French cinema Jean-Louis Trintignant and Emmanuelle Riva, both superlative—facing final separation by cruel death, Haneke and cinematographer Darius Khondji created a litany of framings that feel brittle in their composed beauty, each marked by an elegant exactitude and slowly suffocating airlessness. Hard and tender, this may be Haneke’s ultimate accomplishment—and, incidentally, a eulogy for the youthful dreams of the 1960s European art cinema.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/6Tuc3zjvJU8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Ghost World",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-01",
+                "times": [
+                    {
+                        "time": "8:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26597",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999000822",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/02/ghost-world.jpeg",
         "director": "Terry  Zwigoff",
         "year": 2001,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "111 min",
+        "overview_en": "The first film adaptation from the work of cartoonist Daniel Clowes, Ghost World is a post-apocalyptic survival film set in the suburban AnyAmerica of 2001. Thora Birch and Scarlett Johansson co-star as two too-smart girls using caustic wit to shield themselves from the toxic effects of living in a cultural wasteland, discovering an amiably creepy kindred spirit in the form of Steve Buscemi’s weedy record collector. A modern-day comic classic, and an anthem for opting out.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/juzGS-GN79M?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Virgin Suicides",
         "show_dates": [
             {
-                "date": "Wednesday April 2",
+                "date": "2025-04-02",
                 "times": [
                     {
                         "time": "8:30pm",
@@ -777,11 +938,21 @@
                 ]
             },
             {
-                "date": "Thursday April 3",
+                "date": "2025-04-03",
                 "times": [
                     {
                         "time": "9:40pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26610",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "6:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26682",
                         "sold_out": false
                     }
                 ]
@@ -791,40 +962,112 @@
         "image_url": "https://metrograph.imgix.net/2022/07/VIRGINSUICIDES.jpg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Sophia Coppola",
         "year": 1999,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "97 min",
+        "overview_en": "One of the most accomplished directorial debuts of the 1990s, Coppola’s adaptation of Jeffrey Eugenides’s novel tells the story of five death-haunted teenaged siblings in a posh Detroit suburb, the Lisbon sisters, by way of a swooning sensorial immersion in the very textures and languorous rhythms of suburban privilege and anguished innocence. Electronic duo Air provide the pillowy dreamscape soundtrack, while Kirsten Dunst—then emerging as one of the most exciting young American actresses working—anchors the central quintet.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/8kDcCGlaBwY?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Persona",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-02",
+                "times": [
+                    {
+                        "time": "10:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26604",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "9:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26693",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999002303",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/02/persona.jpeg",
         "director": "Ingmar Bergman",
         "year": 1966,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "85 min",
+        "overview_en": "Liv Ullmann is a famous actress who has suffered a nervous breakdown and been rendered mute, and Bibi Andersson is the young nurse to whom she’s been entrusted for care at a countryside retreat—at least that’s how it seems at first. Through the course of Bergman’s stark, startling, boundary-busting psychodrama—the movie he referred to as “a breakthrough”—however, their personalities and images seem to merge, until the dividing lines between them practically disappear. Troublingly erotic, lensed with bleak beauty by cinematographer Sven Nykvist, and filled with new stylistic gambits from Bergman, including a famous moment in which the heat of emotion onscreen seems to destroy the film itself.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "Nostalghia",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-03",
+                "times": [
+                    {
+                        "time": "4:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26607",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004203",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/NOSTALGHIA_4.jpeg",
         "director": "Andrei Tarkovsky",
         "year": 1983,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "125 min",
+        "overview_en": "Tarkovsky’s penultimate film and his first shot outside the USSR channels the filmmaker’s own sense of displacement into the story of a homesick Russian musicologist (Oleg Yankovsky) doing research in Italy who becomes fixated on the messianic ambitions of a holy fool, Domenico (Erland Josephson, playing a character inspired by a newspaper story discovered by Guerra), who he encounters when visiting the Tuscan countryside, filmed here as a melancholy dreamscape. Guerra co-wrote the script with Tarkovsky, who had been—with Antonioni—one of the witnesses at the screenwriter’s 1977 wedding in Moscow, and with whom he had earlier hoped to collaborate on a film (unmade, alas) to be shot in Uzbekistan.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/vMy-T5GI7Z0?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Clerks",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-04",
+                "times": [
+                    {
+                        "time": "2:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26488",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26684",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999003300",
         "image_url": "https://metrograph.imgix.net/2023/06/clerks.jpg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Kevin Smith",
         "year": 1994,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "92 min",
+        "overview_en": "Smith’s first feature, famously paid for with maxed-out credit cards and shot on black-and-white 16mm stock in the convenience and video rental shops where its writer-director was working day jobs, is one of the great hang-out movies, a grubby, profane slice of American neorealist comedy about killing time while doing crummy jobs, starring Brian O’Halloran and Jeff Anderson as disgruntled cash register jockeys in suburban New Jersey. Contains Smith’s finest foul-mouthed arias of dialogue, many of these interpreted by Jason Mewes’s gravel-voiced Jay. (“He speaks some English, but he cannot speak it good like we do.”)",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Mlfn5n-E2WE?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Clue",
         "show_dates": [
             {
-                "date": "Friday April 4",
+                "date": "2025-04-04",
                 "times": [
                     {
                         "time": "2:45pm",
@@ -834,12 +1077,22 @@
                 ]
             },
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "7:10pm",
                         "ticket_url": null,
                         "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26681",
+                        "sold_out": false
                     }
                 ]
             }
@@ -848,13 +1101,18 @@
         "image_url": "https://metrograph.imgix.net/2023/10/clue.jpeg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Jonathan Lynn",
         "year": 1985,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "94 min",
+        "overview_en": "Basing a film on a Parker Brothers board game may not sound like a particularly promising premise, but writer-director Lynn’s comic whodunnit is a delight from start to finish(es)—singularly, the film went to theaters with three separate endings, one of which will show with every Metrograph screening. A delectable dinner party murder mystery with slapstick farce and gallows humor on the menu, with Madeline Kahn, Christopher Lloyd, and Martin Mull among the guests waited on by Tim Curry’s cracked butler.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/5GfxyYgoMHY?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Love Hotel",
         "show_dates": [
             {
-                "date": "Friday April 4",
+                "date": "2025-04-04",
                 "times": [
                     {
                         "time": "4:40pm",
@@ -869,7 +1127,7 @@
                 ]
             },
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "5:15pm",
@@ -884,7 +1142,7 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "6:00pm",
@@ -897,19 +1155,69 @@
                         "sold_out": false
                     }
                 ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26683",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "10:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26685",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "5:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26691",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26696",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "8:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26700",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26701",
+                        "sold_out": false
+                    }
+                ]
             }
         ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004185",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/LOVE-HOTEL_2.jpg",
         "director": "Shinji  Sômai",
         "year": 1985,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "88 min",
+        "overview_en": "Sōmai, who had been an assistant director at Nikkatsu in the 1970s when Roman Porno sex films became the studio’s stock-in-trade, made his only directorial effort in the genre with this disarmingly poignant, elegantly shot entry into the pinku eiga canon from a script by Takashi Ishii—he later reworked it into his own 1988 Angel Guts: Red Vertigo—which stars Minori Terada as a spiraling ex-businessman who, having squandered his fortune and his dignity and brought terrible suffering upon his wife, hires a sex worker (Noriko Hayami, in her signature role) to share what he intends to be his final night on earth at a hot sheets love hotel.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/LoLAQmu84r8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Rope",
         "show_dates": [
             {
-                "date": "Friday April 4",
+                "date": "2025-04-04",
                 "times": [
                     {
                         "time": "4:45pm",
@@ -919,11 +1227,31 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "10:00pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26532",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "4:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26688",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "5:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26694",
                         "sold_out": false
                     }
                 ]
@@ -933,22 +1261,44 @@
         "image_url": "https://metrograph.imgix.net/2023/10/Rope-Featured-Image.jpg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Alfred Hitchcock",
         "year": 1948,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "80 min",
+        "overview_en": "Queer-coded college boy killers John Dall and Farley Granger throw a dinner party for a group that includes former headmaster James Stewart in their Manhattan apartment, one of the most beautiful soundstage confections in cinema history, but this get-together has a novel twist—unbeknownst to guests, the meal will be served on a trunk containing the body of the boys’ murdered friend. Hitchcock’s adaptation of Patrick Hamilton’s 1929 stage play of the same name was the director’s first Technicolor film and a virtuoso technical experiment, designed to play out in what appears to be a single real-time take.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/8xkQoH8QbVs?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Siméon",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-04",
+                "times": [
+                    {
+                        "time": "6:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26491",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004233",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/SIMEON_WP_1-copy.jpeg",
         "director": "Euzhan Palcy",
         "year": 1992,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "115 min",
+        "overview_en": "A music teacher (Jean-Claude Duverger) in a small Martinique village, his star student, guitarist Isidore (Jacob Desvarieux, the late leader and co-founder of Kassav')and Isidore’s 10-year-old daughter Orélie (Lucinda Messager), are united by a love of up-tempo, percussion-driven Zouk music and a dream of introducing it to the wider world in Palcy’s magical-realist musical fantasy. A warm, vibrant, and infinitely charming tale of loss and (literally) supernatural perseverance, featuring a cast loaded with top tier talent from the Francophone Caribbean, including legendary Guadeloupe group Kassav’, Pascal Légitimus of the French trio of humorists Les Inconnus, and jazz pianist Alain Jean-Marie. Presented in a stunning 4K restoration and now widely considered Palcy's masterpiece, after the triumph of her sophomore feature A Dry White Season, which made her the first Black woman director to have a film produced by a major Hollywood studio.",
+        "has_qa": true,
+        "qa_details": "Q&A with filmmaker Euzhan Palcy moderated by Director Fits founder Hagop Kourounian on Friday, April 4th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/-_b8ty2V71g?autoplay=1&playsinline=1"
     },
     {
         "title_en": "First Reformed",
         "show_dates": [
             {
-                "date": "Friday April 4",
+                "date": "2025-04-04",
                 "times": [
                     {
                         "time": "6:45pm",
@@ -958,11 +1308,21 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "3:45pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26535",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "4:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26703",
                         "sold_out": false
                     }
                 ]
@@ -972,31 +1332,79 @@
         "image_url": "https://metrograph.imgix.net/2023/04/ScreenShot2019-01-22at6.17.25PM.png?fm=png&ixlib=php-3.3.1",
         "director": "Paul Schrader",
         "year": 2017,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "113 min",
+        "overview_en": "The fifth film of Schrader’s so-called “Man in a Room” series, which includes Taxi Driver (1976) and American Gigolo (1980), First Reformed dives into consuming obsession along with its protagonist, Reverend Ernst Toller (Ethan Hawke, extraordinary), the caretaker of a historical upstate New York church who becomes gradually possessed by a horror of forthcoming ecological catastrophe, and fixated on the idea of laying down his life to punish the corporate overlords responsible. Harrowing and, finally, hallowed—a fierce and unforgettable film.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/hCF5Y8dQpR4?autoplay=1&playsinline=1"
     },
     {
         "title_en": "A Dry White Season",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-04",
+                "times": [
+                    {
+                        "time": "9:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26495",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26698",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004234",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/A-DRY-WHITE-SEASON_WP_3.jpg",
         "director": "Euzhan Palcy",
         "year": 1989,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "106 min",
+        "overview_en": "Adapted from South African André Brink’s novel of the same name, Palcy’s fierce drama—the first Hollywood studio film directed by a Black woman (and only her second feature)—stars Donald Sutherland as a schoolteacher at a whites-only school in mid-1970s South Africa who, following the brutal beating of his gardener’s (Winston Ntshona) activist son by the police, finds himself increasingly opposed to fighting the apartheid system, enlisting the aide of sympathetic journalist Susan Sarandon and anti-apartheid lawyer Marlon Brando, returning to the screen for the first time in a decade with focus and fiery commitment. Impressed by Palcy's commitment to human rights, Brando originally wanted to work for free but had to accept the union rate. “First-rate agitprop about the ruthlessness of South African apartheid… The relentless plot is effectively set up and expertly pursued.” —Jonathan Rosenbaum, The Chicago Reader",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by filmmaker Euzhan Palcy on Friday, April 4th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/ERIZicmT2w4?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Saturday Afternoon Cartoons: April Showers",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-05",
+                "times": [
+                    {
+                        "time": "12:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26518",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004241",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Noahs-Outing.jpeg",
         "director": "Multiple Dirs",
         "year": 1950,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "60 min",
+        "overview_en": "Saturday Afternoon Cartoons is New York City’s prime theatrical showcase of early and classic animated cartoons, shown in vintage 16mm film prints from the personal archives of historian Tommy José Stathes. Beginning over 20 years ago as a casual effort to find and see early cartoons that were unavailable on home video, Stathes’s collection has grown to become perhaps one of the largest of its kind. It includes many titles and ‘orphan films’ that are difficult to access or view elsewhere.",
+        "has_qa": true,
+        "qa_details": "Featuring introduction and Q&A with Stathes.",
+        "has_introduction": false
     },
     {
         "title_en": "What Time is it There?",
         "show_dates": [
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "2:30pm",
@@ -1006,7 +1414,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "12:15pm",
@@ -1020,31 +1428,68 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WHAT-TIME-IS-IT-THERE__WP_2.jpeg",
         "director": "Tsai Ming-liang",
         "year": 2001,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "116 min",
+        "overview_en": "Lee Kang-sheng’s Hsiao Kang, now working as a street vendor selling watches out of a briefcase in Taipei, sells a dual-time watch to Chen Shiang-chyi, a young woman preparing for an extended stay in Paris. While she drifts alone through the City of Lights, Lee, back home, develops a new fascination with all things French, seeking out a bootleg VHS of Truffaut’s The 400 Blows—whose star, Jean-Pierre Léaud, appears in a memorable cameo—and going to often unusual lengths to set every clock he sees to Paris time. A mordantly funny film on the topics of grief, longing, female flâneurism, death, and rebirth, featuring some of Tsai’s most exquisitely composed durational sequence shots.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/zoQCaJf5W-c?autoplay=1&playsinline=1"
     },
     {
         "title_en": "ASC Presents: Midnight Cowboy",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-05",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26520",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004236",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/MIDNIGHT-COWBOY_WP_1.jpeg",
         "director": "John  Schlesinger",
         "year": 1969,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "113 min",
+        "overview_en": "All-American hillbilly hunk Joe Buck (Jon Voight) leaves Texas for New York City in search of his big break, only to quickly find himself a flat-broke hustler whose only friend is a loudmouth, tubercular con man named Ratso Rizzo (Dustin Hoffman) who’s even more on the skids than Buck is. A deeply affecting and justly celebrated actors’ duet as well as a time capsule of late-’60s Times Square and downtown bohemia that still speaks volumes about the dirty business of eking out a living in a loud, ugly city that doesn’t know you’re alive and doesn’t care if you die. The first DP credit on a feature for Polish-born cinematographer Adam Holender, whose effective distillation of the essence of down-and-out NYC in bone-chilling winter doubtlessly led to his hiring onto 1971’s Panic in Needle Park.",
+        "has_qa": true,
+        "qa_details": "Q&A with cinematographer Adam Holender on Saturday, April 5th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/o29GST0Lj28?autoplay=1&playsinline=1"
     },
     {
         "title_en": "This Long Century Presents: Ari Marcopoulos",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-05",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26521",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004237",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Ari-Marcopoulos_Sketches-for-PUNK_02.jpg",
         "director": "Ari Marcopoulos",
         "year": 2021,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "79 min",
+        "overview_en": "A program of selected short films by Marcopoulos, a photographer, filmmaker, and tireless chronicler of subcultures in New York City and points further afield. Includes Roma, a portrait of daily life in the Italian capital; Sketches for #PUNK, intercutting choreographer Nora Chipaumire’s rehearsals for a performance with the kinetic footwork of basketball players on a neighborhood court; Alone Together, documenting a poetry reading and saxophone performance by avant-garde jazz legend Joe McPhee at LAXART in Los Angeles; two shorts attesting to Marcopoulos’s ongoing engagement with hip-hop culture; Hammons Flute, in which musician David Hammons is seen playing a traditional Japanese flute, the shakuhachi, in his Harlem studio; and further surprises.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "The Exorcist",
         "show_dates": [
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "10:15pm",
@@ -1054,7 +1499,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "10:00pm",
@@ -1064,11 +1509,21 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "7:25pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26584",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "7:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26692",
                         "sold_out": false
                     }
                 ]
@@ -1078,13 +1533,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-EXORCIST_1.jpeg",
         "director": "William Friedkin",
         "year": 1973,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "122 min",
+        "overview_en": "When it first appeared in cinemas, Friedkin’s profane, blasphemous, frequently-brutal adaptation of William Peter Blatty’s bestselling supernatural thriller was experienced as a startling, almost-unprecedented cinematic assault, the harsh, harrowing work of a master filmmaker. Almost half a century later, though? The same damn thing. Priests Max von Sydow and Jason Miller, the latter in a performance of gloomy grandeur, are called on to cast a demon out of a Georgetown townhouse, and find themselves staring down pure evil.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/BU2eYAO31Cc?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Lovers Are Wet",
         "show_dates": [
             {
-                "date": "Saturday April 5",
+                "date": "2025-04-05",
                 "times": [
                     {
                         "time": "11:00pm",
@@ -1094,7 +1554,7 @@
                 ]
             },
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "8:00pm",
@@ -1108,22 +1568,43 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LOVERS-ARE-WET_WP_2.jpeg",
         "director": "Tatsumi Kumashiro",
         "year": 1973,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "76 min",
+        "overview_en": "A young man (Toru Ohe) on the run from the yakuza, doing his best to keep a low profile while doing grunt work for the movie theater specializing in erotic films in the rural seaside town where he was raised, is drawn into oft-disturbing sexual liaisons with the cinema’s unhappily married manager Chizuyu Azami, local Moeko Ezawa, and free-spirited couple Kôichi Hori and Rie Nakagawa. A tour-de-force by Roman porno mainstay Kumashiro, distinguished by finely shaded character studies, dynamic camerawork, self-censorship by Brakhage-esque emulsion-scratching, and a robust sense of the absurd, Lovers are Wet shows just how much was possible within the genre confines of the pink film.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "Palindromes: 20th Anniversary Reunion",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-06",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004239",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/PALINDROMES_1.jpeg",
         "director": "Todd  Solondz",
         "year": 2004,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "100 min",
+        "overview_en": "The protagonist of Solondz’s Palindromes, 13-year-old Aviva, wants to be a mother more than anything else in the world—and when her own mother (Ellen Barkin) dares to get in the way of her dream, Aviva strikes out on her own, played in her journey across a trigger-happy America of Christian fundamentalists and roving pederasts by a succession of eight actresses of vastly different races, ages, and body types (including Jennifer Jason Leigh), embarking on a voyage that ends, as the title suggests, exactly where it began. Running in a new 4K restoration, with Solondz and cast and crew appearing in-person for a 20th Anniversary reunion screening. “Brave and challenging. The film has no heroes without flaws and no villains without virtues… Each individual story has an authenticity and impact of its own.” —Roger Ebert, Chicago Sun-Times",
+        "has_qa": true,
+        "qa_details": "Q&A with director Todd Solondz, costume designer Vicki Farrell, actor Tyler Maynard, and actor Shayna Levine, moderated by producer Mike S. Ryan, on Sunday, April 6th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/bKk4U4eNCoE?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Wayward Cloud",
         "show_dates": [
             {
-                "date": "Sunday April 6",
+                "date": "2025-04-06",
                 "times": [
                     {
                         "time": "7:30pm",
@@ -1133,7 +1614,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "5:00pm",
@@ -1143,7 +1624,7 @@
                 ]
             },
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "2:50pm",
@@ -1157,13 +1638,17 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-WAYWARD-CLOUD_WP_1-copy.jpg",
         "director": "Tsai Ming-liang",
         "year": 2005,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "114 min",
+        "overview_en": "Never an artist to stay in one place for long, Tsai followed what had been perhaps his most austere film to-date, 2003’s eulogistic Goodbye, Dragon Inn, with this trashy-glammy borderline pornographic provocation, filled with strikingly staged musical set pieces and inspired acts of desperate deviancy. Lee Kang-sheng returns in the role of Hsiao-kang, now working as a porn actor, reunited with his missed connection from Tsai’s 2001 What Time is it There?, genuine feeling struggling to flourish in a landscape of cold, commodified desire. Boasts the most memorable uses of a watermelon of the many in Tsai’s films, and musical interludes evoking both Busby Berkeley and Kander and Ebb, the latter in Lu Yi-ching’s jaw-dropping “Spider Woman” number.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "La Religieuse (The Nun)",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "2:15pm",
@@ -1173,7 +1658,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "12:00pm",
@@ -1187,13 +1672,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LA-RELIGIEUSE_4.jpeg",
         "director": "Jacques Rivette",
         "year": 1966,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "140 min",
+        "overview_en": "Rivette’s film adaptation of Denis Diderot’s 18th-century story of unchecked abuse of power within convent walls—which the director had earlier brought to the stage with the film’s star, Anna Karina—became the focal point of a storm of controversy on its completion, banned from release for more than a year after running afoul of censors and the cultural watchdogs of the Catholic church. Karina gives a performance of radiant fortitude as Suzanne Simonin, a young woman consigned by her family to take up the nun’s habit in spite of a lack of religious avocation, struggling to keep her faith and basic humanity intact while subjected to the capricious cruelty of higher-ups including Micheline Presle’s sadistic Mother Superior.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/kD5Au1sJmjc?autoplay=1&playsinline=1"
     },
     {
         "title_en": "SubUrbia",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "5:00pm",
@@ -1203,7 +1693,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "4:25pm",
@@ -1217,13 +1707,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/SubUrbia_WP_7.jpeg",
         "director": "Richard  Linklater",
         "year": 1996,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "121 min",
+        "overview_en": "Often overlooked in surveys of Linklater’s career, SubUrbia, his first film not from an original screenplay, adapted by Eric Bogosian from his stage play of the same name, is a work of enormous empathy and gets-under-your-skin melancholy, taking place over the course of a single night in the environs of a Texas convenience store where five twentysomething friends’ (Giovanni Ribisi, Amie Carey, Steve Zahn, Nicky Katt, Dina Spybey) nightly routine of shooting the shit is interrupted by the appearance of up-and-coming rocker Jayce Bartok and pushy publicist Parker Posey. The darkest of its director’s “hang out” movies, faintly pulsing with the ambient dread that comes of living in a landscape of superstores and subdivisions.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/sHxxbcI8g6A?autoplay=1&playsinline=1"
     },
     {
         "title_en": "I Don't Want to Sleep Alone",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "5:10pm",
@@ -1233,7 +1728,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "5:00pm",
@@ -1243,7 +1738,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "7:20pm",
@@ -1257,13 +1752,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/I-DONT-WANT-TO-SLEEP-ALONE_WP_3.jpeg",
         "director": "Tsai Ming-liang",
         "year": 2006,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "115 min",
+        "overview_en": "The rising waters that seep through Tsai Ming-Liang’s filmography seem not only a powerful metaphor for a rising tide of desire, but a disturbingly relevant vision of global inundation. Returning to Malaysia, his birthplace, Tsai creates an aching drama, touched by an ambient sense of disaster, concerning a brutally beaten homeless man and the young Bangladeshi guest worker who finds him and nurtures him back to health. Exploring the marginal lives of immigrant communities in Southeast Asia, Tsai makes potent usage of Kuala Lumpur locations, including, to stunning effect, an enormous, flooded construction site.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Azu197bM2Zk?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Pink Narcissus",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "7:30pm",
@@ -1273,7 +1773,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "2:45pm",
@@ -1283,7 +1783,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "7:00pm",
@@ -1293,7 +1793,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "8:45pm",
@@ -1307,13 +1807,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/PINK-NARCISSUS_2.jpg",
         "director": "James Bidgood",
         "year": 1971,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "65 min",
+        "overview_en": "Between 1963 and 1970, photographer, costume designer, window dresser, and female impersonator Bidgood sporadically transformed his shoebox-sized Manhattan apartment into a succession of stunning, tinsel-tasseled sets while painstakingly piecing together his delirious paean to camp Technicolor extravagance and male beauty starring runaway teen Bobby Kendall and his bee-stung lips, with Kendall’s hustler a modern-day Narcissus whose oneiric odyssey takes him from gauzy homoerotic reverie to gritty Times Square toilet-trawling. Anticipating the lavish fantasias of Pierre et Gilles and arguably outdoing them, Bidgood’s newly restored lone feature, obsessive and intoxicating, is nothing less than “a benchmark of underground gay cinema.” [The New York Times]",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/jf2bymItPmo?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Abnormal Family",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "7:40pm",
@@ -1323,7 +1828,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "9:00pm",
@@ -1333,7 +1838,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "8:25pm",
@@ -1347,13 +1852,17 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/B_ABNORMAL-FAMILY_1.jpeg",
         "director": "Masayuki  Suo",
         "year": 1984,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "63 min",
+        "overview_en": "Before going on to international success with 1996 romantic comedy Shall We Dance? Suo began his career in Roman porno, his first feature a barbed spoof of the family dramas of Yasujiro Ozu—replete with “pillow shots,” tatami mat-level camera placements, and Ren Osugi doing a spot-on impression of Chishu Ryu—in which Ozu’s frequent theme of almost symbiotic closeness between parents and children is pushed towards intimations of incestuous desire. A perverse mash note to Golden Age Japanese cinema from the twilight of the Roman porno, which by the mid-’80s was facing stiff competition from home video.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "Blade Runner: The Final Cut",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "9:15pm",
@@ -1363,7 +1872,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "10:00pm",
@@ -1373,7 +1882,7 @@
                 ]
             },
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "4:45pm",
@@ -1383,7 +1892,7 @@
                 ]
             },
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "7:20pm",
@@ -1397,13 +1906,18 @@
         "image_url": "https://metrograph.imgix.net/2023/06/blade-runner1.jpeg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Ridley Scott",
         "year": 1982,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "117 min",
+        "overview_en": "While so many special effects spectacles are lost in time like tears in the rain, Blade Runner remains the template for imagining the neon-wreathed downer of the future, every bit as influential in its vision as was Fritz Lang’s Metropolis over a half century before. Working from a novel by cult writer Philip K. Dick to create a film that would become the gold standard for sci-fi noir, director Scott shares credit here with “visual futurist” Syd Mead’s design concepts and synth pioneer Vangelis’s atmospheric score.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/qoEyZoOTtss?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Quiet Family",
         "show_dates": [
             {
-                "date": "Friday April 11",
+                "date": "2025-04-11",
                 "times": [
                     {
                         "time": "9:20pm",
@@ -1413,7 +1927,7 @@
                 ]
             },
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "6:50pm",
@@ -1427,22 +1941,43 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-QUIET-FAMILY_WP_8.jpeg",
         "director": "Kim Jee-woon",
         "year": 1998,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "101 min",
+        "overview_en": "A taboo-busting knee-slapper with a decidedly ghoulish sense of humor, Kim’s debut feature tells the story of the Kangs, a Seoul family who’ve opened a tourist inn in the mountains in hopes of a fresh start who instead find themselves dealing with quite a quantity of fresh meat, their guests showing a disturbing tendency to shuffle off the mortal coil in gruesome fashion. Influential for both revivifying the then-moribund Korean horror film and injecting it with a new streak of comic cruelty, The Quiet Family has been loosely remade—by Takashi Miike, for one—but arguably never topped for gruesome glee.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/3sIVLOaB87k?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Eight Men Out",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-12",
+                "times": [
+                    {
+                        "time": "11:45am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26571",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004246",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/EIGHT-MAN-OUT_WP_1.jpeg",
         "director": "John Sayles",
         "year": 1988,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "119 min",
+        "overview_en": "Working from Eliot Asinof’s 1963 nonfiction book of the same name, Sayles’s beautifully detailed period piece revisits the sporting news bombshell that shocked a nation: the agreement between several members of the Chicago White Sox and powerful gambling interests to throw the 1919 World Series, a national shame remembered by posterity as the Black Sox Scandal. A lucid dramatization of how corruption spread through the entire ecosystem around America’s pastime, handsomely lensed by cinematographer Robert Richardson and boasting a once-in-a-lifetime ensemble cast that puts Sayles regulars like David Strathairn and Gordon Clapp alongside rising stars John Cusack and Charlie Sheen.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/A1NFDfHL-D8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Thirteen",
         "show_dates": [
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "2:15pm",
@@ -1452,7 +1987,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "2:40pm",
@@ -1466,22 +2001,43 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THIRTEEN_WP_7.jpeg",
         "director": "Catherine Hardwicke",
         "year": 2003,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "100 min",
+        "overview_en": "Hardwicke’s keen insight into teenage angst helped make the first Twilight film a pop phenomenon, and it’s almost certain that her ragged, rambunctious directorial debut—co-written with its 14-year-old star Nikki Reed—landed her the gig. Evan Rachel Wood plays Tracy, a Los Angeles honor student who strays from the straight-and-narrow path under the influence of new juvenile delinquent bestie Evie (Reed), much to the dismay of her recently divorced recovering alcoholic mother Holly Hunter. A blunt-scented plunge into the lower depths of the Valley, a time capsule of early aughts youth culture, and a showcase for second-skin natural performances by Wood, Reed, and Hunter.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/dad4-gQfhMs?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Benedetta",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-12",
+                "times": [
+                    {
+                        "time": "7:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26577",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004248",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/BENEDETTA_4.jpeg",
         "director": "Paul Verhoeven",
         "year": 2021,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "131 min",
+        "overview_en": "Inspired by the life of Benedetta Carlini, a nun of 17th-century Tuscany whose claims of mystic visions drew the attention of church higher-ups, their investigations eventually revealing a verboten sexual relationship between Carlini and one of her fellow nuns and leading to her imprisonment, Verhoeven’s earthy, irreverent film immerses one in the squelchy squalor and earthly delights of Counter-Reformation era Europe, with Virginie Efira a revelation in the title role and Charlotte Rampling, as the abbess of the convent, conveying roiling inner turmoil beneath a cooly composed exterior. An examination of the difficult relationship between religious submission and sexual liberation, featuring some of the most memorable foley sounds in recent cinema.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/DW5wOtLSfPs?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Eros",
         "show_dates": [
             {
-                "date": "Saturday April 12",
+                "date": "2025-04-12",
                 "times": [
                     {
                         "time": "10:30pm",
@@ -1491,7 +2047,7 @@
                 ]
             },
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "4:50pm",
@@ -1503,15 +2059,20 @@
         ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999000989",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/EROS_WP_1.jpg",
-        "director": "Michelangelo Antonioni, Wong Kar-wai, Steven  Soderbergh",
+        "director": "Michelangelo Antonioni",
         "year": 2004,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "104 min",
+        "overview_en": "Antonioni’s final film—and the end of his 45-year artistic dialogue with Guerra, here adapting one of the “nuclei” sketches in Antonioni’s 1983 collection That Bowling Alley on the Tiber—was this, the kicker of a triptych anthology film featuring contributions from Wong Kar-wai and Steven Soderbergh, in which the long-ailing Antonioni gave rich, full expression to his erotic imagination in a way not seen since 1982’s Identification of a Woman, crafting a sort of sensual fable that unfolds against the backdrop of crumbling Tuscan ruins. An intoxicating swansong, and an apt end to a career defined by an ongoing tango between Eros and Thanatos.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/PlIBzd4i05c?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Happy End",
         "show_dates": [
             {
-                "date": "Sunday April 13",
+                "date": "2025-04-13",
                 "times": [
                     {
                         "time": "12:20pm",
@@ -1521,7 +2082,7 @@
                 ]
             },
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "2:30pm",
@@ -1535,13 +2096,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/HAPPY-END_1.jpeg",
         "director": "Michael Haneke",
         "year": 2017,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "107 min",
+        "overview_en": "Isabelle Huppert’s smooth management of the lucrative family construction and shipping business she’s taken over operations of from senile father Jean-Louis Trintignant is threatened by an impending civil suit caused by her no-good son Franz Rogowski’s on-the-job negligence, while 12-year-old niece Ève (Fantine Harduin) casts a baleful eye on goings-on at the mausoleum-like family compound, caught in the grips of torturously mounting anxiety, with her ever-present, unblinking iPhone camera. A comprehensive catalog of classic Haneke motifs (surveillance, barely sublimated racism, inter-generational resentment, guilt as a gnawing cancer), its various moving parts kept whirring by Willi, whose mastery of the ellipsis as a tension-building tool has rarely been shown to better advantage. “As gripping as a satanically inspired soap opera… A black comedy of pure sociopathy.” —The Guardian",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/cZ1ajZRn8YM?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Lone Star",
         "show_dates": [
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "3:20pm",
@@ -1551,11 +2117,21 @@
                 ]
             },
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "12:00pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26622",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "5:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26662",
                         "sold_out": false
                     }
                 ]
@@ -1565,13 +2141,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/LONE-STAR_WP_1.jpeg",
         "director": "John Sayles",
         "year": 1996,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "135 min",
+        "overview_en": "In a Texas town near the Mexican border, the discovery of a skeleton that proves to belong to a former sheriff some 40 years missing sends current sheriff Chris Cooper on an investigation that brings to light criminal corruption, the city’s long history of discrimination and racial strife, and the possible implication of Cooper’s late father (played in flashback by Matthew McConaughey) in foul play and worse. “Contains so many riches, it humbles ordinary movies… Like Faulkner, [Sayles] creates a sure sense of the way the past haunts the present, and how old wounds and secrets are visited on the survivors…. A great American movie… The best work yet by one of our most original and independent filmmakers.” —Roger Ebert, The Chicago Sun-Times",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/UffK-IHM1B0?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Paranoid Park",
         "show_dates": [
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "6:00pm",
@@ -1581,7 +2162,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "3:40pm",
@@ -1595,13 +2176,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/04/PARANOID-PARK_3.jpg",
         "director": "Gus Van Sant",
         "year": 2007,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "85 min",
+        "overview_en": "Adapting Blake Nelson’s Y.A. novel of the same name, Van Sant renders the youth gathering place of the skate park a voluptuous dreamscape with the help of cinematographers Chris Doyle and Rain Kathy Li. Teenaged skate rat Alex—Gabe Nevins, leading a largely amateur cast recruited via MySpace—finds himself a prime suspect in the death of a security guard, silently carrying a crushing burden of knowledge through his daily rounds, a contrast to the gravity-defying liberation he finds carving it up at “Paranoid Park.”",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/LQNqM8kG4kE?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Invention",
         "show_dates": [
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "7:15pm",
@@ -1611,7 +2197,7 @@
                 ]
             },
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "5:20pm",
@@ -1621,7 +2207,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "7:10pm",
@@ -1635,13 +2221,19 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/INVENTION_1.jpg",
         "director": "Courtney Stephens",
         "year": 2024,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "72 min",
+        "overview_en": "A collaboration between Stephens, a vanguard figure in nonfiction and experimental film, and actor and filmmaker Callie Hernandez, Invention is an endlessly inventive fiction feature debut. Written by them both and drawing heavily on Hernandez’s relationship with her alternative health doctor/public television personality/eccentric physician father, Hernandez plays Carrie, a young woman who, in the wake of her father’s death—Hernandez’s actual late father, seen in vintage footage—explores his complicated legacy, including the patent for an innovative healing machine that appears to actually work. A captivating meta-cinematic rumination on grief and the concept of original authorship with a dry, cracked sense of humor, and a film in which the unexpected lurks behind every corner.",
+        "has_qa": true,
+        "qa_details": "Q&A with director Courtney Stephens and writer Callie Hernandez on Friday, April 18th and Saturday, April 19th.",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/8YV5gFRhFY8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Wet Woman in the Wind",
         "show_dates": [
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "7:45pm",
@@ -1651,7 +2243,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "10:10pm",
@@ -1665,22 +2257,43 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WET-WOMAN-IN-THE-WIND_WP_5.jpeg",
         "director": "Akihiro Shiota",
         "year": 2016,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "77 min",
+        "overview_en": "Dissipated Tokyo playwright Kosuke (Tasuku Nagaoka) has retreated to the countryside after deciding he’s done with women, but the indefatigable cat-in-heat Shiori (Yuki Mamiya) has other ideas, clinging to Kosuke like his shadow. Working in the Roman Porno template, and paying sincere tribute to his forebears, Shiota has made a hysterical, free-associative slapstick sex comedy that includes a burlesqued threesome and a coupling that literally brings down the house.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/PwzEGwpql3M?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Doc's Kingdom",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-18",
+                "times": [
+                    {
+                        "time": "9:25pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26618",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004253",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/DOCS-KINGDOM_WP_1.jpeg",
         "director": "Robert Kramer",
         "year": 1988,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "90 min",
+        "overview_en": "A spiritual successor of sorts to Kramer’s 1970 Ice which catches up with one of that film’s stars, Paul McIsaac, now a 46-year-old ex-radical-firebrand-turned-doctor living in alcoholic isolation in the industrial outskirts of Lisbon, his monastic existence interrupted by the unexpected appearance of Jimmy (Vincent Gallo, in one of his earliest screen appearances), the offspring of a liaison some 20 years earlier. The climactic work of American expat Kramer’s intense political and cinematic engagement with Portugal, featuring the great Portuguese filmmaker João César Monteiro in a substantive role as the ashen-faced tavernkeeper who keeps “Doc’s” flask filled.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/R1yxMqBPj_k?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Holy Mountain",
         "show_dates": [
             {
-                "date": "Friday April 18",
+                "date": "2025-04-18",
                 "times": [
                     {
                         "time": "9:30pm",
@@ -1690,7 +2303,7 @@
                 ]
             },
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "9:45pm",
@@ -1700,11 +2313,31 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "11:00am",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26631",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "10:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26665",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "9:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26672",
                         "sold_out": false
                     }
                 ]
@@ -1714,31 +2347,78 @@
         "image_url": "https://metrograph.imgix.net/2022/09/holy-mountain-4.jpeg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Alejandro Jodorowsky",
         "year": 1973,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "114 min",
+        "overview_en": "Jodorowsky’s follow-up to his mother of all midnight movies, El Topo, is even wilder and more extravagantly imaginative that its predecessor, a surreal, sacrilegious allegory in which the writer-director stars as a mysterious figure called “The Alchemist” who, after recruiting a band of followers and subjecting them to a series of bizarre mystical rites, sets out on a journey to the titular mountain, on a mission to topple the gods who dwell there from their thrones. An existential epic on the Cecil B. DeMille scale for the psychedelic set, in which Jodorowsky is given free rein to realize his most fantastic imaginings.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/zerBaxPbA94?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Star Trek: The Motion Picture",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-19",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26621",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26656",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004254",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/STAR-TREK_-THE-MOTION-PICTURE_14.jpeg",
         "director": "Robert  Wise",
         "year": 1979,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "143 min",
+        "overview_en": "Cancelled after three seasons in 1969, Gene Roddenberry’s cult NBC series Star Trek only gained more and more rabid fans in its syndication afterlife, leading to its resurrection a decade later in this first big-screen outing for the crew of the starship Enterprise, recruited here to intercept a mysterious energy cloud barreling toward Earth and leaving a swath of destruction in its path as it does. To design the marauding vessel discovered travelling inside the cloud, the alien-piloted “V’ger,” Mead, in his first piece of film concept art, worked with Roddenberry, Wise, and FX maestro Douglas Trumbull to help design what would become the 68’ V’ger model used on the shoot, following Wise’s directive to create something “no man had ever seen.”",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/wbvxV2OJQKk?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Workingman's Death",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-19",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26624",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999002281",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WORKINGMANS-DEATH_8.jpeg",
         "director": "Michael Glawogger",
         "year": 2005,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "122 min",
+        "overview_en": "Is it possible to make a post-apocalyptic movie set in the present day? Glawogger’s globe-spanning documentary panorama comes awfully close. Its vignettes of manual laborers at work reveal a world of grueling labor and Stygian landscapes, including illegal coal mines in the Ukraine, a sulfur mine in Indonesia, a Pakistani shipbreaking ground, and a slaughter yard in Nigeria. A litany of scenes of backbreaking toil and ecological devastation, suggesting that for many outside of the privileged west, the end of the world is already here.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/gDp1yM7CMgQ?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Monty Python's Life of Brian",
         "show_dates": [
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "5:15pm",
@@ -1748,11 +2428,41 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "9:45pm",
                         "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26638",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26650",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "11:00am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26658",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "9:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26673",
                         "sold_out": false
                     }
                 ]
@@ -1762,13 +2472,18 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/MONTY-PYTHONS-LIFE-OF-BRIAN_4-1.jpeg",
         "director": "Terry Jones",
         "year": 1979,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "94 min",
+        "overview_en": "Nothing is sacred in this R-rated Gospel According to St. Python, in which Graham Chapman’s Brian Cohen of Nazareth, born on the same days that Mary and Joseph welcome their first-born into the world in a neighboring manger, grows up to lead a life that holds up a distorted mirror to that of the Messiah, right down to its ending by crucifixion—in Brian’s case, a merry affair set to the tune of the Eric Idle-penned “Always Look on the Bright Side of Life.” A riotous omnidirectional roasting of radical chic, religious fanaticism, and celebrity culture in which the gags multiply and proliferate like loaves and fishes, funded in significant part by ex-Beatle George Harrison, always the spiritual seeker.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/y8YyfvINTWc?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Dead and the Living",
         "show_dates": [
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "7:30pm",
@@ -1778,7 +2493,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "5:10pm",
@@ -1792,13 +2507,17 @@
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/DEAD-AND-THE-LIVING.jpeg",
         "director": "Barbara Albert",
         "year": 2012,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "100 min",
+        "overview_en": "At her beloved grandfather’s 95th birthday party, always-on-the-go 25-year-old Berliner Sita (an effervescent Anna Fischer) stumbles across an old photograph of the paterfamilias wearing an SS uniform; stonewalled by her father when asking for explanations, Sita then takes the investigation into her own hands, a journey that will lead to a Viennese archive, to Warsaw, and into a long buried and since unspoken part of her family’s past. Unique in its examination of war guilt as experienced from a distance of two generations, Albert’s historical excavation drama is lent considerable momentum through Fischer’s live-wire performance, Willi’s reliably spry cutting, and Lorenz Dangel’s score.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "Vive L'Amour",
         "show_dates": [
             {
-                "date": "Saturday April 19",
+                "date": "2025-04-19",
                 "times": [
                     {
                         "time": "9:40pm",
@@ -1808,7 +2527,7 @@
                 ]
             },
             {
-                "date": "Sunday April 20",
+                "date": "2025-04-20",
                 "times": [
                     {
                         "time": "1:20pm",
@@ -1822,42 +2541,623 @@
         "image_url": "https://metrograph.imgix.net/2022/02/Vive_lamore_1994_1.jpeg?fm=pjpg&ixlib=php-3.3.1",
         "director": "Tsai Ming-liang",
         "year": 1994,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "118 min",
+        "overview_en": "Tsai’s second theatrical feature drew understandable comparisons to Antonioni’s chilly studies in urban ennui on initial release, but this bizarre love triangle—Chen Chao-jung and Yang Kuei-mei meet for illicit rendezvous in an “empty” apartment in Taipei where, unbeknownst to them, a depressive Lee Kang-sheng is hiding out—found the Taiwanese master developing his own, utterly distinct style, distinguished by elegantly composed static takes, perverse deadpan comedy, and lovelorn longing. A disarmingly funny masterclass in less-is-more storytelling economy that is, in its final scene in the then-unfinished Daan Forest Park, utterly devastating.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/Z6L1R0g5Bm8?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Whale Rider",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-20",
+                "times": [
+                    {
+                        "time": "11:30am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26632",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999002017",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WHALE-RIDER_1.jpeg",
         "director": "Niki Caro",
         "year": 2002,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "101 min",
+        "overview_en": "Adapted from acclaimed New Zealand Māori writer Witi Ihimaera’s 1987 novel of the same name, beloved by children and adult readers both, Caro’s similarly cherished family-friendly film stars Keisha Castle-Hughes—whose performance would make her for a time the youngest nominee for Academy Award for Best Actress—as a 12-year-old Māori girl on the island of Whangara who aspires to become chief of her tribe, very much against the wishes of her grandfather. Enormously moving, while nimbly sidestepping cliché and cloying sentiment, and a paean to the natural beauty of the Whangara landscape. “Not a simplistic fable but the story of real people living in modern times… [Castle-Hughes] is a movie star. She glows.”—Roger Ebert, Chicago Sun-Times",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/QDiPBjk8fAA?autoplay=1&playsinline=1"
     },
     {
         "title_en": "The Secret of Roan Inish",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-20",
+                "times": [
+                    {
+                        "time": "1:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26633",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "12:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26677",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004257",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/THE-SECRET-OF-ROAN-INISH_2.jpeg",
         "director": "John Sayles",
         "year": 1994,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "103 min",
+        "overview_en": "An unusual foray into the “children’s movie” for Sayles—though a work of sound craftsmanship and emotional force that will appeal to viewers of all ages—The Secret of Roan Inish follows 10-year-old Fiona, who, after being sent to live with her grandparents in an Irish fishing village following her mother’s death, becomes fascinated by local legends concerning shape-shifting “selkies” and reports of her baby brother’s mysterious disappearance after being swept out to sea years earlier. A mesmerizing, gentle work of magic realism which, set in the 1940s, as industrialization has made inroads into even rural Ireland, old traditions are fading, and the equilibrium of the natural world is upset, also feels perfectly aligned to Sayles’s recurring thematic concerns.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/E0niI55VeDA?autoplay=1&playsinline=1"
     },
     {
         "title_en": "Art Cinema for Tots: Toys and Things",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-20",
+                "times": [
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26634",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "11:10am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26659",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004251",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/two.jpg",
         "director": "Multiple Dirs",
         "year": 1964,
-        "cinema": "Metrograph"
+        "cinema": "Metrograph",
+        "duration": "45 min",
+        "overview_en": "Born out of a commitment to the idea that it’s never too early to introduce kids to the pleasures of movies made outside of the commercial mainstream—and the suspicion that young audiences are often more open-minded and curious than their elders when it comes to such matters—Metrograph presents “Art Cinema for Tots,” a celebration of handcrafted, kid-friendly films that reconcile the smart and the silly. In this edition, join us in unpacking an entire chest full of delightful vintage baubles and knickknacks, including the all-toy cast of Charles and Ray Eames’s Traveling Boy, the sweet show-and-tell session of Satyajit Ray’s Two, the Russian nesting dolls of Co Hoedeman’s Matrioska, and the acrobatic marionettes of Hoedeman’s Marianne’s Theatre. A playdate to remember.",
+        "has_qa": false,
+        "has_introduction": false
     },
     {
         "title_en": "Weird Medicine Shorts",
-        "show_dates": [],
+        "show_dates": [
+            {
+                "date": "2025-04-20",
+                "times": [
+                    {
+                        "time": "5:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26639",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
         "detail_url": "https://metrograph.com/film/?vista_film_id=9999004258",
         "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/missing-time_one-1-scaled-1.jpeg",
         "director": "Multiple Dirs",
         "year": 2016,
+        "cinema": "Metrograph",
+        "duration": "54 min",
+        "overview_en": "Featuring Paul Wong and Kenneth Fletcher’s body art performance piece 60 Unit; Bruise (1976), in which Wong is injected with Fletcher’s blood; Brigid McCaffrey’s Bad Mama, Who Cares (2016), which observes geologist Ren Lallatin at his new desert home poised between rail yard and interstate; Interviewing Qi Gong Masters (1989), a Chinese state-sponsored documentary; and Morgan Quaintance’s Missing Time (2019), a meditation on historical and national amnesia, England’s colonial legacy, and alien abduction.",
+        "has_qa": false,
+        "has_introduction": false
+    },
+    {
+        "title_en": "Winter Light",
+        "show_dates": [
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "2:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26651",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "8:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26663",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004259",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/WINTER-LIGHT_5.jpeg",
+        "director": "Ingmar  Bergman",
+        "year": 1963,
+        "cinema": "Metrograph",
+        "duration": "81 min",
+        "overview_en": "His flock dwindling, his perfunctory performance of his duties now guided by muscle memory alone, small town pastor Tomas’s (Gunnar Björnstrand) slow loss of faith arrives at a moment of actual crisis when he is called to ease the torment of a parishioner (Max von Sydow) paralyzed by fear of the atomic bomb, for whom he can provide nothing in the way of comforting counsel. As photographed by the peerless Sven Nykvist, who spent a month studying how the light in the church that’s the film’s central location changed in the course of a day, Winter Light is a film of bleak beauty, a rigorously pared-down drama of the struggle to hold onto faith in the face of God’s silence.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/S_ihGR6Wung?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Time of the Wolf",
+        "show_dates": [
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "4:40pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26652",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "2:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26661",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004260",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/TIME-OF-THE-WOLF_5.jpeg",
+        "director": "Michael Haneke",
+        "year": 2003,
+        "cinema": "Metrograph",
+        "duration": "114 min",
+        "overview_en": "A family, led by matriarch Isabelle Huppert, flees to the countryside in an unnamed European country following a world crisis of unclear origins, in the course of their journey discovering that societal breakdown is well underway. Haneke’s lacerating, under-seen portrayal of civilizational collapse, a bellwether for the cinema’s all-consuming 21st-century obsession with dystopia, utilizes a splintering narrative structure—handled with effortless aplomb by Willi, in her second of six collaborations to-date with Haneke—rooted firmly in the director’s obsessions with the fragility of the family unit. “A frighteningly potent glimpse into the abyss… One of the most harrowing and plausible visions of apocalypse since… Night of the Living Dead.” —Manohla Dargis, Los Angeles Times",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/wW25gmhAnSw?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Defending Your Life",
+        "show_dates": [
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26657",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "5:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26675",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001660",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/DEFENDING-YOUR-LIFE_WP_4.jpeg",
+        "director": "Albert Brooks",
+        "year": 1991,
+        "cinema": "Metrograph",
+        "duration": "112 min",
+        "overview_en": "Perhaps Brooks’s most conceptually ambitious comedy, Defending Your Life begins hilariously enough with the death of its protagonist, a self-absorbed yuppie played by the director. Arriving in an afterlife metropolis where the deceased go on trial to see if they’ve learned enough to stay on in paradise or are due for another lesson via reincarnation, our hero has to cringingly revisit his ignoble existence, the outcome of his review becoming suddenly desperate when he falls for Meryl Streep, a fellow casualty who’s lived a far more exemplary life—meaning that defense lawyer Rip Torn has his work cut out for him if our hero is to get the girl.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/L5pRaWnClyo?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Blue Sun Palace",
+        "show_dates": [
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "7:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26653",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26655",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "12:20pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26660",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "4:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26667",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "2:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26676",
+                        "sold_out": false
+                    },
+                    {
+                        "time": "7:15pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26674",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004188",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/02/BLUE-SUN-PALACE_1_resized.jpg",
+        "director": "Constance Tsang",
+        "year": 2024,
+        "cinema": "Metrograph",
+        "duration": "116 min",
+        "overview_en": "Winner of the French Touch prize in the Critics’ Week lineup of the 2024 Cannes Film Festival, Tsang’s intimate, sensitively observed drama stars Lee Kang-sheng alongside Wu Ke-xi and Xu Haixpeng as three Chinese immigrants living in Flushing, Queens—he’s a construction worker, they’re employees of a massage parlor they dream of being able to leave—whose routine lives and relationships are changed forever following a tragic Lunar New Year incident. A tender study of social isolation and messy emotional entanglement, infused with melancholic atmosphere by the standout work of DP Norm Li, shooting on film.",
+        "has_qa": true,
+        "qa_details": "Q&A with director Constance Tsang, and actors Lee Kang-sheng and Ke Xi, moderated by filmmaker Ramin Bahrani on Friday, April 25th | Q&A with director Constance Tsang, and  actor Ke Xi on Saturday, April 26th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/8x92_rWlkvU?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "The Hole",
+        "show_dates": [
+            {
+                "date": "2025-04-25",
+                "times": [
+                    {
+                        "time": "9:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26654",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000265",
+        "image_url": "https://metrograph.imgix.net/2023/10/TheHole2.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Tsai Ming-liang",
+        "year": 1998,
+        "cinema": "Metrograph",
+        "duration": "95 min",
+        "overview_en": "It’s the close of the millennium and Taipei has emptied out with the onset of a mysterious virus, but Lee Kang-sheng and Yang Kuei-mei lag behind among the ruins, where it doesn’t seem like there’s really much world to end, but maybe a last chance at communication through a breach between their apartments that slowly widens through Tsai’s downbeat, glum-funny dystopian masterpiece.",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by Lee Kang-sheng on Friday, April 25th"
+    },
+    {
+        "title_en": "Boys (Xiaohai) + My Stinking Kid + Single Belief",
+        "show_dates": [
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "1:05pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26668",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004261",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Single-Belief.jpg",
+        "director": "Tsai Ming-liang",
+        "year": 2016,
+        "cinema": "Metrograph",
+        "duration": "115 min",
+        "overview_en": "Street casting Lee Kang-sheng after seeing him minding the door at a Taipei arcade, Tsai gave the untrained actor a major role in this 1991 telefilm, a pivotal work that finds Tsai balancing the established tenets of social realism with his emerging experimental bent, in which Lee plays a young working-class man who shakes down a rather more posh contemporary (Liu Jixin) in order to get money for a hospitalized friend. Screens with My Stinking Kid, a drama about a sickly boy bullied by his peers because the medication he takes makes him stink of ammonia, co-credited to Lee and Tsai, and Lee’s Single Belief, in which the actor/director appears, chicly attired for a change, posing in Taipei’s bustling, fashionable Ximending district.",
+        "has_qa": true,
+        "qa_details": "Q&A with Lee Kang-sheng on Saturday, April 26th",
+        "has_introduction": false
+    },
+    {
+        "title_en": "ACE Presents: Chinatown",
+        "show_dates": [
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "6:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26666",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004262",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/Chinatown-featured.jpeg",
+        "director": "Roman Polanski",
+        "year": 1974,
+        "cinema": "Metrograph",
+        "duration": "130 min",
+        "overview_en": "Serpents abound in the lush garden that is boomtown 1930s Los Angeles in Polanski’s neo-noir classic from a razor-sharp script by native Angelino Robert Towne, starring Jack Nicholson as an amiably sleazy P.I. and all-around nosey guy who get much more than he bargained for when he takes a job from woman-in-trouble Faye Dunaway and discovers a conspiracy to steal water rights masterminded by proudly corrupt plutocrat John Huston. Sam O’Steen, who’d earlier worked with Polanski on Rosemary’s Baby—the director would say of O’Steen that he had “a skill and imagination that takes my breath away”—would receive one of the film’s 11 Academy Award nominations, his work at the editing table a major factor in the film’s captivating, can’t-look-away grip.",
+        "has_qa": true,
+        "qa_details": "Q&A with Bobbie and Molly O'Steen on Saturday, April 26th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/T37QkBc4IGY?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Possession",
+        "show_dates": [
+            {
+                "date": "2025-04-26",
+                "times": [
+                    {
+                        "time": "9:50pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26664",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001205",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2024/11/FILM.00_31_13_18.Still012-1.jpg",
+        "director": "Andrzej  Żuławski",
+        "year": 1981,
+        "cinema": "Metrograph",
+        "duration": "124 min",
+        "overview_en": "Żuławski’s one-of-a-kind genre pastiche has spy Sam Neill returning to his Berlin home from a mission abroad to discover that wife Isabelle Adjani wants suddenly to split up.",
+        "has_qa": false,
+        "has_introduction": false
+    },
+    {
+        "title_en": "Chinatown",
+        "show_dates": [
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "11:20am",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26669",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001051",
+        "image_url": "https://metrograph.imgix.net/2022/08/Chinatown-1-1.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "Roman Polanski",
+        "year": 1974,
+        "cinema": "Metrograph",
+        "duration": "130 min",
+        "overview_en": "The actual Chinatown neighborhood in Los Angeles doesn’t play a major role in Polanski’s noir-inflected film of dirty dealings in 1930s Southern California, but it does a whole lot of metaphorical heavy lifting in the film’s famous kicker line, symbolic of a place where the rules and the language are beyond comprehension. Faye Dunaway is a woman in trouble; Jack Nicholson is the nosey detective Jake Gittes who thinks he can get her out of it; and John Huston is the vilest plutocrat in all of cinema, reshaping the future of a thriving city with concern only for fattening his pockets. Native Angelino Robert Towne’s screenplay is perhaps his finest, an indictment of the conscienceless concerns that, in his hometown’s years of golden promise, were already silently steering its fate.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/p39LFdGI-YA?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Aliens",
+        "show_dates": [
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "2:00pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26678",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001083",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/ALIENS_WP_7.jpeg",
+        "director": "James Cameron",
+        "year": 1986,
+        "cinema": "Metrograph",
+        "duration": "137 min",
+        "overview_en": "Where its predecessor was a slow-burn suspenser, Cameron’s Aliens is a bombastic, no-holds-barred exosuit fight to the finish, an express elevator to hell, goin’ down! Lone survivor Ripley (Sigourney Weaver) goes back for a rematch with the creatures who slaughtered the crew of the Nostromo, this time bringing along a squad of hard-boiled space marines whose number includes the great Bill Paxton, Jenette Goldstein, and Lance Henriksen’s mumblety-peg-playing android Bishop. Rounding out the superb supporting players are the aliens themselves, pinnacles of pre-CGI visual effects that just keep coming, and coming, and coming, and coming… while Mead’s contributions can mostly be seen in the blade-like military vessel Sulaco and the unforgettable “Power Loader” donned by Ripley for the main event grudge match.",
+        "has_qa": false,
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/QlztL3cYwHs?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Help Me Eros",
+        "show_dates": [
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26670",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004263",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/HELP-ME-EROS_WP_1.jpeg",
+        "director": "Lee Kang-Sheng",
+        "year": 2008,
+        "cinema": "Metrograph",
+        "duration": "103 min",
+        "overview_en": "Lee stars in his second feature as writer-director in the role of Ah Jie, a formerly successful businessman whose fortune has disappeared with a convulsion of the stock exchange, now adrift amongst the trappings of his former success and increasingly absorbed in home-growing marijuana and nurturing fantasies about a female volunteer (Jane Liao) on a suicide prevention helpline he’s taken to calling and “betelnut beauty” Ivy Yi. A spare and immensely empathetic portrait of the alienation inherent to much of contemporary urban life—and the cold-comfort options on the market for its relief—with strikingly squalid neon-splashed production design courtesy Tsai Ming-liang.",
+        "has_qa": true,
+        "qa_details": "Q&A with Lee Kang-sheng on Sunday, April 27th.",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/kGLF3kYU6yY?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Walker Series: Journey to the West + No No Sleep",
+        "show_dates": [
+            {
+                "date": "2025-04-27",
+                "times": [
+                    {
+                        "time": "7:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26671",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004264",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/JOURNEY-TO-THE-WEST_WP_1.jpeg",
+        "director": "Tsai Ming-liang",
+        "year": 2015,
+        "cinema": "Metrograph",
+        "duration": "90 min",
+        "overview_en": "A key entry in Tsai’s Walker series, inspired by the 16th-century Chinese literature classic of the same name and the long overland journey that it describes, Journey to the West—like all of the Walker films—features Lee Kang-sheng as a Buddhist monk in a saffron robe walking at an almost imperceptibly slow pace against the backdrop of a busy cityscape. Here the city is Marseille, where Lee will be joined by a traveling companion of sorts, the great French actor (and trained mime) Denis Lavant. A meditative, curiously absorbing, and quietly glorious work. Screens with No No Sleep, a singular variation on the Walker concept, which begins with Lee’s monk crossing Tokyo and ends with a brief, loaded encounter at a day spa between Lee (perhaps or perhaps not the same character) and Ando Masanobu.",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by Lee Kang-sheng on Sunday, April 27th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/tCGgqxOaas8?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "Showtimes coming soon",
+        "show_dates": [
+            {
+                "date": ", 2025",
+                "times": [
+                    {
+                        "time": "Showtimes coming soon",
+                        "ticket_url": "",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "",
+        "image_url": "",
+        "director": "",
+        "year": null,
         "cinema": "Metrograph"
+    },
+    {
+        "title_en": "Palindromes: 20th Anniversary",
+        "show_dates": [
+            {
+                "date": "2025-04-06",
+                "times": [
+                    {
+                        "time": "4:45pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-07",
+                "times": [
+                    {
+                        "time": "8:10pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26686",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "3:35pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26690",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999004239",
+        "image_url": "https://150266793.v2.pressablecdn.com/wp-content/uploads/2025/03/PALINDROMES_1.jpeg",
+        "director": "Todd  Solondz",
+        "year": 2004,
+        "cinema": "Metrograph",
+        "duration": "100 min",
+        "overview_en": "The protagonist of Solondz’s Palindromes, 13-year-old Aviva, wants to be a mother more than anything else in the world—and when her own mother (Ellen Barkin) dares to get in the way of her dream, Aviva strikes out on her own, played in her journey across a trigger-happy America of Christian fundamentalists and roving pederasts by a succession of eight actresses of vastly different races, ages, and body types (including Jennifer Jason Leigh), embarking on a voyage that ends, as the title suggests, exactly where it began. Running in a new 4K restoration, with Solondz and cast and crew appearing in-person for a 20th Anniversary reunion screening. “Brave and challenging. The film has no heroes without flaws and no villains without virtues… Each individual story has an authenticity and impact of its own.” —Roger Ebert, Chicago Sun-Times",
+        "has_qa": true,
+        "qa_details": "Q&A with director Todd Solondz, costume designer Vicki Farrell, actor Tyler Maynard, and actor Shayna Levine, moderated by producer Mike S. Ryan, on Sunday, April 6th",
+        "has_introduction": false,
+        "trailer_url": "https://www.youtube-nocookie.com/embed/bKk4U4eNCoE?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "All About My Mother",
+        "show_dates": [
+            {
+                "date": "2025-04-08",
+                "times": [
+                    {
+                        "time": "3:30pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26689",
+                        "sold_out": false
+                    }
+                ]
+            },
+            {
+                "date": "2025-04-10",
+                "times": [
+                    {
+                        "time": "9:45pm",
+                        "ticket_url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=26702",
+                        "sold_out": false
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999000454",
+        "image_url": "https://metrograph.imgix.net/2021/10/all-about-my-mother.jpeg?fm=pjpg&ixlib=php-3.3.0",
+        "director": "Pedro Almodóvar",
+        "year": 1999,
+        "cinema": "Metrograph",
+        "duration": "101 min",
+        "overview_en": "The stars of international fame, critical esteem, and perfect, justifiable artistic self-confidence all aligned for vanguard queer filmmaker Pedro Almodóvar’s melodrama, made under the influences of John Cassavetes and Tennessee Williams, which follows Manuela (Cecilia Roth) as she travels to Barcelona after the death of her teenaged son to give the tragic news to the boy’s parent, Lola (Toni Cantó). At once funny and shattering, Manuela’s journey is a paean to femininity in every form. An Oscar winner and massive across the board hit that brought Almodóvar mainstream acceptance.",
+        "has_qa": false,
+        "has_introduction": true,
+        "introduction_details": "Introduction by production designer Inbal Weinberg on Sunday, March 16th",
+        "trailer_url": "https://www.youtube-nocookie.com/embed/5Va7Z7O-LMc?autoplay=1&playsinline=1"
+    },
+    {
+        "title_en": "PRIVATE EVENT TODAY IN THEATER & COMMISSARY",
+        "show_dates": [
+            {
+                "date": "2025-04-09",
+                "times": [
+                    {
+                        "time": "9:00pm",
+                        "ticket_url": null,
+                        "sold_out": true
+                    }
+                ]
+            }
+        ],
+        "detail_url": "https://metrograph.com/film/?vista_film_id=9999001346",
+        "image_url": "https://metrograph.imgix.net/2022/05/privateevent.jpg?fm=pjpg&ixlib=php-3.3.1",
+        "director": "",
+        "year": 2025,
+        "cinema": "Metrograph",
+        "duration": "360 min",
+        "overview_en": "Please check back soon for updated showtimes!",
+        "has_qa": false,
+        "has_introduction": false
     }
 ]

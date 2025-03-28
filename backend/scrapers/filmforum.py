@@ -141,16 +141,16 @@ def scrape_filmforum_with_playwright():
             
         # 访问每部电影的详情页获取更多信息
         for title, movie in movie_dict.items():
-                try:
+            try:
                 print(f"获取电影详情: {title}")
                 page.goto(movie["detail_url"], timeout=60000)
-                    page.wait_for_load_state("networkidle")
+                page.wait_for_load_state("networkidle")
                 
                 detail_soup = BeautifulSoup(page.content(), "html.parser")
                     
                 # 获取主标题
-                    main_title = detail_soup.find("h2", class_="main-title")
-                    if main_title:
+                main_title = detail_soup.find("h2", class_="main-title")
+                if main_title:
                     movie["title_en"] = main_title.text.strip()
                 
                 # 方法1: 尝试从slideshow中获取图片
@@ -181,26 +181,26 @@ def scrape_filmforum_with_playwright():
                             movie["image_url"] = img_src if img_src.startswith("http") else f"https://filmforum.org{img_src}"
                             break
                     
-                    # 从urgent区域获取导演信息
-                    urgent_div = detail_soup.find("div", class_="urgent")
+                # 从urgent区域获取导演信息
+                urgent_div = detail_soup.find("div", class_="urgent")
                 if urgent_div and urgent_div.find("p"):
                     urgent_text = urgent_div.find("p").text.strip()
-                            if "DIRECTED BY" in urgent_text:
+                    if "DIRECTED BY" in urgent_text:
                         movie["director"] = urgent_text.replace("DIRECTED BY", "").strip()
-                            else:
+                    else:
                         movie["note"] = urgent_text
                     
-                    # 从copy区域获取更多详细信息
-                    copy_div = detail_soup.find("div", class_="copy")
-                    if copy_div:
+                # 从copy区域获取更多详细信息
+                copy_div = detail_soup.find("div", class_="copy")
+                if copy_div:
                     # 查找第一个段落，它可能包含年份、时长等信息
-                        first_p = copy_div.find("p")
-                        if first_p:
+                    first_p = copy_div.find("p")
+                    if first_p:
                         p_text = first_p.text.strip()
                         
-                                    # 提取年份
+                        # 提取年份
                         year_match = re.search(r'\b(19\d{2}|20\d{2})\b', p_text)
-                                        if year_match:
+                        if year_match:
                             movie["year"] = int(year_match.group(1))
                         
                         # 提取时长
